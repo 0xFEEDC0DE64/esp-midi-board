@@ -780,7 +780,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 76.2 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0c362b9f-f95c-40de-8ba6-b9ef281c6c5f)
-    (property "Reference" "SW8" (at 76.2 62.23 0)
+    (property "Reference" "SW15" (at 76.2 62.23 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 76.2 64.77 0)
@@ -792,15 +792,15 @@
     (property "Datasheet" "~" (at 76.2 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b47af11e-fbc0-4c5b-a082-0132b26d98ad))
-    (pin "2" (uuid 9b1b1900-506f-47e9-8b45-6dd5d7c42ce3))
+    (pin "1" (uuid 5e1381ce-6e23-4488-b84d-c284d2af21f2))
+    (pin "2" (uuid cb25aa93-f1d5-4b31-94e0-e5b17699b461))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "SW8") (unit 1)
+          (reference "SW15") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "SW15") (unit 1)
+          (reference "SW7") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "SW23") (unit 1)
@@ -815,7 +815,7 @@
   (symbol (lib_id "Diode:BAV99") (at 76.2 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21f0a2c5-6e16-473d-a984-2aeb988adbc1)
-    (property "Reference" "D10" (at 76.2 24.13 0)
+    (property "Reference" "D?" (at 76.2 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAV99" (at 76.2 26.67 0)
@@ -827,35 +827,35 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf" (at 76.2 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 75b2f494-0b67-435b-968b-3cbcd353ad52))
-    (pin "2" (uuid 99b804f5-bb7e-427a-aef9-d29c19279ca9))
-    (pin "3" (uuid dd03ec9c-2e7e-449e-9fc6-62dd5f90da58))
+    (pin "1" (uuid 2ad55838-3e2a-4d23-8825-feecfd11dabc))
+    (pin "2" (uuid 0464b5f2-18a9-4bc4-a5a7-a9be58a0f0c5))
+    (pin "3" (uuid 64e151fb-3b53-47c1-b725-d086424dc68a))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "D10") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "D19") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D11") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "D5") (unit 1)
+          (reference "D16") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "D13") (unit 1)
+          (reference "D7") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
-          (reference "D17") (unit 1)
+          (reference "D20") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
-          (reference "D21") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -864,7 +864,7 @@
   (symbol (lib_id "power:GND") (at 129.54 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2604a5bf-10f7-47dc-b387-f58aede66f45)
-    (property "Reference" "#PWR0115" (at 129.54 50.8 0)
+    (property "Reference" "#PWR?" (at 129.54 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.667 47.7012 90)
@@ -876,33 +876,33 @@
     (property "Datasheet" "" (at 129.54 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 90b73584-1cac-4616-ac64-d4ba02429c06))
+    (pin "1" (uuid d772ac1d-2050-408e-83a2-187b6522d343))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "#PWR0115") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "#PWR082") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR0154") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR0135") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
-          (reference "#PWR025") (unit 1)
+          (reference "#PWR0158") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR0162") (unit 1)
         )
       )
     )
@@ -911,7 +911,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 76.2 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 386cd7b5-4d6d-4569-9fd4-b1787f7e2ae3)
-    (property "Reference" "SW4" (at 76.2 46.99 0)
+    (property "Reference" "SW14" (at 76.2 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 76.2 49.53 0)
@@ -923,15 +923,15 @@
     (property "Datasheet" "~" (at 76.2 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cb79543a-04c1-4b7b-86f4-4d44a8904f55))
-    (pin "2" (uuid c8c31831-681f-4c78-9389-0a9386cfe59b))
+    (pin "1" (uuid 4b731809-c197-49c9-8d94-2f422d3c23ab))
+    (pin "2" (uuid 7e94c630-5176-4d18-b11d-2bc26fe3a550))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "SW4") (unit 1)
+          (reference "SW14") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "SW14") (unit 1)
+          (reference "SW6") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "SW22") (unit 1)
@@ -946,7 +946,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 96.52 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 498939c8-1563-4019-9e46-4ed36d066e65)
-    (property "Reference" "SW9" (at 96.52 62.23 0)
+    (property "Reference" "SW17" (at 96.52 62.23 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 96.52 64.77 0)
@@ -958,15 +958,15 @@
     (property "Datasheet" "~" (at 96.52 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5f8ede1b-a0c6-492e-8868-3f8cca9a8737))
-    (pin "2" (uuid 6333c1f7-c350-4f42-bee5-4faf61057e43))
+    (pin "1" (uuid e87fc34b-f76a-4278-aa13-7b1c822dd6db))
+    (pin "2" (uuid 69ce0983-f463-45dc-8ec7-1c4a646220a6))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "SW9") (unit 1)
+          (reference "SW17") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "SW17") (unit 1)
+          (reference "SW9") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "SW25") (unit 1)
@@ -981,7 +981,7 @@
   (symbol (lib_id "Power_Protection:USBLC6-4SC6") (at 129.54 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5681c951-946e-47a7-b1c1-27a86d9c8b7c)
-    (property "Reference" "U6" (at 132.3087 59.5335 0)
+    (property "Reference" "U?" (at 132.3087 59.5335 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "USBLC6-4SC6" (at 132.3087 62.3086 0)
@@ -996,38 +996,38 @@
     (property "LCSC Part #" "C558419" (at 129.54 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e059543d-ac7d-47cd-b326-86a5cdc955fc))
-    (pin "2" (uuid f24ba384-0181-43f2-806f-5dc99c33570f))
-    (pin "3" (uuid fcc01462-1644-44b9-8a9a-4b0183106c49))
-    (pin "4" (uuid c436cfe8-c23c-4897-be8c-9b2069eb65f3))
-    (pin "5" (uuid efe92288-2040-4663-a1e0-47e6d26d8014))
-    (pin "6" (uuid 30cfe941-b82a-41e0-a4e8-eed56c66d51c))
+    (pin "1" (uuid 11db039b-aae2-4cbb-bf4f-208df22ead8d))
+    (pin "2" (uuid 6c151f71-7c9d-4cc7-92b7-fd6c6e06c125))
+    (pin "3" (uuid 4c363c2c-199d-4c61-a8ac-419216fd1e34))
+    (pin "4" (uuid 96c2fd5d-91d4-44cd-9037-b8a52003d5bf))
+    (pin "5" (uuid b1bd9c13-82a8-4620-8f9f-22b4d543d831))
+    (pin "6" (uuid da82e755-3e75-48d5-88f7-01584a25ae3e))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "U6") (unit 1)
+          (reference "U?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "U8") (unit 1)
+          (reference "U?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "U3") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "U8") (unit 1)
-        )
-        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "U10") (unit 1)
-        )
-        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "U12") (unit 1)
         )
-        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
+        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
+          (reference "U8") (unit 1)
+        )
+        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "U14") (unit 1)
+        )
+        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
+          (reference "U16") (unit 1)
         )
       )
     )
@@ -1036,7 +1036,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 55.88 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 58a2906a-d2b6-479f-83de-f3d44e699bcb)
-    (property "Reference" "SW7" (at 55.88 62.23 0)
+    (property "Reference" "SW13" (at 55.88 62.23 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 55.88 64.77 0)
@@ -1048,15 +1048,15 @@
     (property "Datasheet" "~" (at 55.88 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4157aaba-23bd-43d8-bf49-52bd5a3776d1))
-    (pin "2" (uuid ea4315b5-368c-4d0e-93ea-b0bee7e8ee79))
+    (pin "1" (uuid b298935d-aafc-49d6-afe5-02f769a97809))
+    (pin "2" (uuid 6225cb2c-7711-4fd0-8337-d84e8b11df39))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "SW7") (unit 1)
+          (reference "SW13") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "SW13") (unit 1)
+          (reference "SW5") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "SW21") (unit 1)
@@ -1071,7 +1071,7 @@
   (symbol (lib_id "Diode:BAV99") (at 35.56 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 64d09635-c73a-4150-b5d5-70f9d938b5a5)
-    (property "Reference" "D4" (at 35.56 24.13 0)
+    (property "Reference" "D?" (at 35.56 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAV99" (at 35.56 26.67 0)
@@ -1086,35 +1086,35 @@
     (property "LCSC Part #" "C2500" (at 35.56 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ca6afa06-134d-4079-9984-428783622003))
-    (pin "2" (uuid 9e3cbd48-176b-4691-bb8f-835d1f6ac053))
-    (pin "3" (uuid f4bde082-606d-4a00-99ed-75315eca605b))
+    (pin "1" (uuid 51adaaaf-da96-448d-829d-d5f197a5f2e1))
+    (pin "2" (uuid 7800d533-2fe3-4cc7-aba1-d842a04a8400))
+    (pin "3" (uuid 319e9a06-6fd3-4990-9305-b174b782a0c3))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "D15") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D3") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "D3") (unit 1)
+          (reference "D14") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "D11") (unit 1)
+          (reference "D5") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
-          (reference "D15") (unit 1)
+          (reference "D18") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
-          (reference "D19") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -1123,7 +1123,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 35.56 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6f268321-0c39-4995-9de3-c7f5f54ee07f)
-    (property "Reference" "SW6" (at 35.56 62.23 0)
+    (property "Reference" "SW11" (at 35.56 62.23 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 35.56 64.77 0)
@@ -1135,15 +1135,15 @@
     (property "Datasheet" "~" (at 35.56 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 597c7342-a4f6-4875-86c2-065bb345eebf))
-    (pin "2" (uuid e8e61d94-af3a-4a10-a674-fccff714edc8))
+    (pin "1" (uuid 5121fc18-48f7-4089-9810-c9b0086a2696))
+    (pin "2" (uuid 90d2eba1-4452-4a0a-86e1-c1db3b1451ab))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "SW6") (unit 1)
+          (reference "SW11") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "SW11") (unit 1)
+          (reference "SW3") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "SW19") (unit 1)
@@ -1158,7 +1158,7 @@
   (symbol (lib_id "power:GND") (at 129.54 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7d48ef16-c872-4c6b-8012-2322179745ee)
-    (property "Reference" "#PWR0115" (at 129.54 87.63 0)
+    (property "Reference" "#PWR?" (at 129.54 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.667 84.5312 90)
@@ -1170,33 +1170,33 @@
     (property "Datasheet" "" (at 129.54 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c9075b3a-5f5f-4634-8c43-1a69799d67ef))
+    (pin "1" (uuid e26a2259-ba3b-4aba-82f7-e905f91e8f83))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "#PWR0115") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "#PWR082") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR0156") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR0137") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR0160") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR0164") (unit 1)
         )
       )
     )
@@ -1205,7 +1205,7 @@
   (symbol (lib_id "Power_Protection:USBLC6-4SC6") (at 129.54 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7d9bf85d-5479-4762-9d2b-6ea448e2f387)
-    (property "Reference" "U6" (at 132.3087 22.7035 0)
+    (property "Reference" "U?" (at 132.3087 22.7035 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "USBLC6-4SC6" (at 132.3087 25.4786 0)
@@ -1220,38 +1220,38 @@
     (property "LCSC Part #" "C558419" (at 129.54 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ab9f82b-7709-448f-8b67-695beaedff0c))
-    (pin "2" (uuid 9959f16d-bc01-4a6e-926f-30165eec7a25))
-    (pin "3" (uuid b0ec2bd9-5b97-40b3-9806-e6a7ed0188c0))
-    (pin "4" (uuid 166f41a2-5ccd-4e3a-bddd-5da52993fe20))
-    (pin "5" (uuid a2d42686-7277-4a5d-bd36-b78de0362f9f))
-    (pin "6" (uuid 6e52cf80-fb49-444e-9fa2-2db46eb5dd69))
+    (pin "1" (uuid 9f7bb457-0697-4840-bdf3-d1a5647673c2))
+    (pin "2" (uuid c18ccdd3-4d30-45a9-868d-d883c517f5fe))
+    (pin "3" (uuid c923e04b-c324-4710-a65a-27961f90302d))
+    (pin "4" (uuid 0c629b2e-f8b5-402f-ad37-07ba3e84c381))
+    (pin "5" (uuid 8810eff6-33a2-41d7-b122-9d5c0089f8e1))
+    (pin "6" (uuid 8c698c61-3318-4fdc-a7b0-9a9b664e109b))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "U6") (unit 1)
+          (reference "U?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "U8") (unit 1)
+          (reference "U?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "U3") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "U3") (unit 1)
-        )
-        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "U9") (unit 1)
-        )
-        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "U11") (unit 1)
         )
-        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
+        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
+          (reference "U7") (unit 1)
+        )
+        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "U13") (unit 1)
+        )
+        (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
+          (reference "U15") (unit 1)
         )
       )
     )
@@ -1260,7 +1260,7 @@
   (symbol (lib_id "Diode:BAV99") (at 96.52 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 808ca2ec-1c97-43ee-9cc8-fceba113d0db)
-    (property "Reference" "D12" (at 96.52 24.13 0)
+    (property "Reference" "D?" (at 96.52 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAV99" (at 96.52 26.67 0)
@@ -1272,35 +1272,35 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf" (at 96.52 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9362834e-5112-4379-ae1f-b5d0bd5b1708))
-    (pin "2" (uuid 953bd79d-5f0d-42a9-8c60-9d003f0465d6))
-    (pin "3" (uuid 063cf156-d099-494e-a877-81a2edd6e79b))
+    (pin "1" (uuid 58334262-c1de-47de-9b93-1e072bcc9427))
+    (pin "2" (uuid ad06116c-bcab-4380-ba3a-e381de5d5042))
+    (pin "3" (uuid 940a4c56-0c26-4d6e-8aa1-223a8695cc96))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "D21") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D13") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "D10") (unit 1)
+          (reference "D17") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "D14") (unit 1)
+          (reference "D8") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
-          (reference "D18") (unit 1)
+          (reference "D21") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
-          (reference "D22") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -1309,7 +1309,7 @@
   (symbol (lib_id "power:+3V3") (at 129.54 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87d3d6b4-a33c-4582-b7b3-fa113257f0a6)
-    (property "Reference" "#PWR0114" (at 129.54 64.77 0)
+    (property "Reference" "#PWR?" (at 129.54 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 129.921 56.5658 0)
@@ -1321,33 +1321,33 @@
     (property "Datasheet" "" (at 129.54 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8885478a-d500-4464-98a2-5596bdd64f33))
+    (pin "1" (uuid 5827ad16-b97a-4022-90ba-08838edfab5e))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "#PWR0114") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "#PWR081") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR0157") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR0138") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
-          (reference "#PWR026") (unit 1)
+          (reference "#PWR0161") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR0165") (unit 1)
         )
       )
     )
@@ -1356,7 +1356,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 55.88 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8f6e4ab5-d98f-41a1-8aec-272f4d92e44d)
-    (property "Reference" "SW3" (at 55.88 46.99 0)
+    (property "Reference" "SW12" (at 55.88 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 55.88 49.53 0)
@@ -1368,15 +1368,15 @@
     (property "Datasheet" "~" (at 55.88 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b498b0c8-a707-4191-ac85-86f7bbe0860e))
-    (pin "2" (uuid aa696f2b-9c37-429e-a51c-e207dd048004))
+    (pin "1" (uuid c26658c0-2e8f-45ee-baaf-5bab12b29695))
+    (pin "2" (uuid 62f668de-9b84-4d61-8b2c-2f0c30c7e0d5))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "SW3") (unit 1)
+          (reference "SW12") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "SW12") (unit 1)
+          (reference "SW4") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "SW20") (unit 1)
@@ -1391,7 +1391,7 @@
   (symbol (lib_id "power:+3V3") (at 129.54 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a6d939f1-8aaf-4c90-8177-b1a3c3b4275a)
-    (property "Reference" "#PWR0114" (at 129.54 27.94 0)
+    (property "Reference" "#PWR?" (at 129.54 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 129.921 19.7358 0)
@@ -1403,33 +1403,33 @@
     (property "Datasheet" "" (at 129.54 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8c0518a9-1bd9-4ef7-bb15-fb0af6193ac9))
+    (pin "1" (uuid 340cef54-3d07-4b0a-945c-608eff103451))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "#PWR0114") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "#PWR081") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR0155") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR0136") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR0159") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR0163") (unit 1)
         )
       )
     )
@@ -1438,7 +1438,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 35.56 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aa731b76-2a69-4689-a344-e03c9d3ccfb1)
-    (property "Reference" "SW2" (at 35.56 46.99 0)
+    (property "Reference" "SW10" (at 35.56 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 35.56 49.53 0)
@@ -1450,15 +1450,15 @@
     (property "Datasheet" "~" (at 35.56 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e5fe7425-41ee-43b7-b856-2e2e01782679))
-    (pin "2" (uuid 76c25443-3e0e-441b-a527-303a2184577d))
+    (pin "1" (uuid a063168e-0c2a-4c48-82bc-c068c168c400))
+    (pin "2" (uuid f14a0deb-88a7-4c93-a5b7-9292aea460d2))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "SW2") (unit 1)
+          (reference "SW10") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "SW10") (unit 1)
+          (reference "SW2") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "SW18") (unit 1)
@@ -1473,7 +1473,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 96.52 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b41b7a13-5bc3-4815-a9f2-fef8867ceead)
-    (property "Reference" "SW5" (at 96.52 46.99 0)
+    (property "Reference" "SW16" (at 96.52 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPST" (at 96.52 49.53 0)
@@ -1485,15 +1485,15 @@
     (property "Datasheet" "~" (at 96.52 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0fa4d008-bb25-43fb-8581-7f89d4723e6e))
-    (pin "2" (uuid 0687ec89-c1a4-471b-a439-8b65e4b873d6))
+    (pin "1" (uuid a3f35896-ebad-4f16-a084-2d305caa9366))
+    (pin "2" (uuid f477a5a2-76d4-44e0-915d-ac3973b24e31))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "SW5") (unit 1)
+          (reference "SW16") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "SW16") (unit 1)
+          (reference "SW8") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
           (reference "SW24") (unit 1)
@@ -1508,7 +1508,7 @@
   (symbol (lib_id "Diode:BAV99") (at 55.88 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5c1b5a7-dc64-45a3-baed-d77f2b4bafec)
-    (property "Reference" "D8" (at 55.88 24.13 0)
+    (property "Reference" "D?" (at 55.88 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAV99" (at 55.88 26.67 0)
@@ -1520,35 +1520,35 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf" (at 55.88 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 07903b93-f29d-474e-b14b-606819c8ffbf))
-    (pin "2" (uuid 5a98adfb-c358-4dc2-b71e-904ee89d519c))
-    (pin "3" (uuid 5c3f14b9-c561-416a-a969-d5af6c8444cf))
+    (pin "1" (uuid 09cfca44-05e9-43ea-9614-f4607730ca08))
+    (pin "2" (uuid 11478d02-eb5d-4fcc-8088-90b528ff0d0f))
+    (pin "3" (uuid 0e766045-8f71-4931-9b1e-6a2e8a344aa9))
     (instances
       (project "bobbycar"
         (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "D8") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "boardcomputer-reinvented"
         (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "D17") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D5") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/989549b1-95ae-4b6f-9bd5-a1e3d73727ae"
-          (reference "D4") (unit 1)
+          (reference "D15") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/5f328d69-1107-471e-b54f-e7e963930f91"
-          (reference "D12") (unit 1)
+          (reference "D6") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/ab47cda4-ea9c-4206-bc33-789f8be7bf06"
-          (reference "D16") (unit 1)
+          (reference "D19") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696"
-          (reference "D20") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )

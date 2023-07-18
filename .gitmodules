@@ -4,3 +4,6 @@
 [submodule "esp32_midi/flasher"]
 	path = esp32_midi/flasher
 	url = https://github.com/0xFEEDC0DE64/kicad-esp32-usb-cflasher.git
+[submodule "esp32_midi/espressif-library"]
+	path = esp32_midi/espressif-library
+	url = https://github.com/espressif/kicad-libraries.git
