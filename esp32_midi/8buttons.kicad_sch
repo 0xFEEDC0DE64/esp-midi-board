@@ -831,16 +831,6 @@
     (pin "2" (uuid 0464b5f2-18a9-4bc4-a5a7-a9be58a0f0c5))
     (pin "3" (uuid 64e151fb-3b53-47c1-b725-d086424dc68a))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "D?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "D?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "D?") (unit 1)
@@ -878,16 +868,6 @@
     )
     (pin "1" (uuid d772ac1d-2050-408e-83a2-187b6522d343))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "#PWR?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "#PWR?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "#PWR?") (unit 1)
@@ -1003,16 +983,6 @@
     (pin "5" (uuid b1bd9c13-82a8-4620-8f9f-22b4d543d831))
     (pin "6" (uuid da82e755-3e75-48d5-88f7-01584a25ae3e))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "U?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "U?") (unit 1)
@@ -1090,16 +1060,6 @@
     (pin "2" (uuid 7800d533-2fe3-4cc7-aba1-d842a04a8400))
     (pin "3" (uuid 319e9a06-6fd3-4990-9305-b174b782a0c3))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "D?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "D?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "D?") (unit 1)
@@ -1172,16 +1132,6 @@
     )
     (pin "1" (uuid e26a2259-ba3b-4aba-82f7-e905f91e8f83))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "#PWR?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "#PWR?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "#PWR?") (unit 1)
@@ -1227,16 +1177,6 @@
     (pin "5" (uuid 8810eff6-33a2-41d7-b122-9d5c0089f8e1))
     (pin "6" (uuid 8c698c61-3318-4fdc-a7b0-9a9b664e109b))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "U?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "U?") (unit 1)
@@ -1276,16 +1216,6 @@
     (pin "2" (uuid ad06116c-bcab-4380-ba3a-e381de5d5042))
     (pin "3" (uuid 940a4c56-0c26-4d6e-8aa1-223a8695cc96))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "D?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "D?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "D?") (unit 1)
@@ -1323,16 +1253,6 @@
     )
     (pin "1" (uuid 5827ad16-b97a-4022-90ba-08838edfab5e))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "#PWR?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "#PWR?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "#PWR?") (unit 1)
@@ -1405,16 +1325,6 @@
     )
     (pin "1" (uuid 340cef54-3d07-4b0a-945c-608eff103451))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "#PWR?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "#PWR?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "#PWR?") (unit 1)
@@ -1524,16 +1434,6 @@
     (pin "2" (uuid 11478d02-eb5d-4fcc-8088-90b528ff0d0f))
     (pin "3" (uuid 0e766045-8f71-4931-9b1e-6a2e8a344aa9))
     (instances
-      (project "bobbycar"
-        (path "/477311b9-8f81-40c8-9c55-fd87e287247a"
-          (reference "D?") (unit 1)
-        )
-      )
-      (project "boardcomputer-reinvented"
-        (path "/c34981a4-f5bf-48b8-b827-9a9cfe9c43b8"
-          (reference "D?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
           (reference "D?") (unit 1)

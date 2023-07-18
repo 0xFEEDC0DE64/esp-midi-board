@@ -388,6 +388,9 @@
   (junction (at 67.31 143.51) (diameter 0) (color 0 0 0 0)
     (uuid 1a3b2611-31c3-4183-9397-ed049ac6eb72)
   )
+  (junction (at 106.68 49.53) (diameter 0) (color 0 0 0 0)
+    (uuid 27948a22-5fbd-4eeb-a8e4-57f4da94c453)
+  )
   (junction (at 171.45 49.53) (diameter 0) (color 0 0 0 0)
     (uuid 29d07eeb-e1ce-48f8-ba86-4a069536df8f)
   )
@@ -408,9 +411,6 @@
   )
   (junction (at 180.34 49.53) (diameter 0) (color 0 0 0 0)
     (uuid 39fc553d-826d-4be3-9a9b-ab1eb9e2cb26)
-  )
-  (junction (at 135.89 31.75) (diameter 0) (color 0 0 0 0)
-    (uuid 3ac8ca91-ad93-4986-ad25-85e2b756df14)
   )
   (junction (at 156.21 143.51) (diameter 0) (color 0 0 0 0)
     (uuid 3ea8972d-3d6c-4c12-982e-e73b195b9b50)
@@ -433,29 +433,26 @@
   (junction (at 90.17 31.75) (diameter 0) (color 0 0 0 0)
     (uuid 48b6bc29-8945-48c1-9ea4-da0dc49bc07e)
   )
-  (junction (at 127 31.75) (diameter 0) (color 0 0 0 0)
-    (uuid 4b37d8fe-d488-432c-8ca3-66f168499656)
-  )
   (junction (at 45.72 49.53) (diameter 0) (color 0 0 0 0)
     (uuid 4c330b16-1d6d-4d83-b4c9-49f2577b61f6)
   )
   (junction (at 49.53 143.51) (diameter 0) (color 0 0 0 0)
     (uuid 53c5e038-9489-4505-9e0e-9e3943b527ff)
   )
-  (junction (at 135.89 49.53) (diameter 0) (color 0 0 0 0)
-    (uuid 59d005d8-f457-4013-8004-3c6b1fd52570)
-  )
   (junction (at 138.43 168.91) (diameter 0) (color 0 0 0 0)
     (uuid 5eb5b015-8ad2-4731-8ced-a78f9ed41c87)
+  )
+  (junction (at 106.68 31.75) (diameter 0) (color 0 0 0 0)
+    (uuid 63d36d85-6150-41b5-98f9-4c1726c04a2f)
+  )
+  (junction (at 115.57 49.53) (diameter 0) (color 0 0 0 0)
+    (uuid 656943d4-ddf7-4ec4-baaa-85d8ee61993f)
   )
   (junction (at 180.34 31.75) (diameter 0) (color 0 0 0 0)
     (uuid 6e6c5b8e-4ee2-43de-a06d-8ccb87048bd9)
   )
   (junction (at 54.61 31.75) (diameter 0) (color 0 0 0 0)
     (uuid 72330cae-4889-4a03-b002-0c74a45e43f7)
-  )
-  (junction (at 127 49.53) (diameter 0) (color 0 0 0 0)
-    (uuid 76573eb9-4cda-4666-8241-706bf57169af)
   )
   (junction (at 162.56 49.53) (diameter 0) (color 0 0 0 0)
     (uuid 859e3aa3-37bc-4ed9-b07c-019e7435717a)
@@ -511,6 +508,9 @@
   (junction (at 58.42 143.51) (diameter 0) (color 0 0 0 0)
     (uuid d75871ed-d84c-4154-8b8e-1d3039328bd3)
   )
+  (junction (at 115.57 31.75) (diameter 0) (color 0 0 0 0)
+    (uuid e52d1ff5-5a07-490a-bf35-93aae8495f7c)
+  )
   (junction (at 54.61 49.53) (diameter 0) (color 0 0 0 0)
     (uuid e6efa1b1-7ad9-4819-812d-25c40fb53fdb)
   )
@@ -533,11 +533,11 @@
   (no_connect (at 193.04 58.42) (uuid 5f5d5744-e24c-4168-9f33-59e9217d349a))
   (no_connect (at 111.76 58.42) (uuid c7902f4f-53b9-4b72-bf1a-62c1edf6da69))
 
-  (wire (pts (xy 127 49.53) (xy 127 44.45))
+  (wire (pts (xy 115.57 49.53) (xy 115.57 44.45))
     (stroke (width 0) (type default))
     (uuid 012f41f5-db78-46f1-b0da-a8563532b397)
   )
-  (wire (pts (xy 121.92 52.07) (xy 123.19 52.07))
+  (wire (pts (xy 110.49 45.72) (xy 123.19 45.72))
     (stroke (width 0) (type default))
     (uuid 056793fe-38a2-47eb-ac42-6114afa075a5)
   )
@@ -557,7 +557,7 @@
     (stroke (width 0) (type default))
     (uuid 0adf734a-6b4c-4554-a174-5c970bfc6003)
   )
-  (wire (pts (xy 118.11 49.53) (xy 127 49.53))
+  (wire (pts (xy 106.68 49.53) (xy 115.57 49.53))
     (stroke (width 0) (type default))
     (uuid 0d0584c8-5d65-4754-ae07-76ede48b6b75)
   )
@@ -569,17 +569,9 @@
     (stroke (width 0) (type default))
     (uuid 0f826623-6830-488b-a447-ca4c2441ea26)
   )
-  (wire (pts (xy 127 49.53) (xy 135.89 49.53))
-    (stroke (width 0) (type default))
-    (uuid 11888d93-d6f4-4034-b03e-940b559520f7)
-  )
   (wire (pts (xy 102.87 52.07) (xy 100.33 52.07))
     (stroke (width 0) (type default))
     (uuid 12bb5608-25a0-4c84-9bec-bc13f1283f8b)
-  )
-  (wire (pts (xy 127 31.75) (xy 135.89 31.75))
-    (stroke (width 0) (type default))
-    (uuid 1308216f-0199-4d9d-908b-069f810c8924)
   )
   (wire (pts (xy 36.83 31.75) (xy 45.72 31.75))
     (stroke (width 0) (type default))
@@ -637,7 +629,7 @@
     (stroke (width 0) (type default))
     (uuid 23850de5-1f98-4da8-a9b8-322e25623428)
   )
-  (wire (pts (xy 118.11 49.53) (xy 118.11 44.45))
+  (wire (pts (xy 106.68 49.53) (xy 106.68 44.45))
     (stroke (width 0) (type default))
     (uuid 243b3805-1dd6-4701-b33f-3fee4b1640c7)
   )
@@ -669,10 +661,6 @@
     (stroke (width 0) (type default))
     (uuid 3496e897-d267-4658-aae3-3e016831c125)
   )
-  (wire (pts (xy 130.81 40.64) (xy 130.81 52.07))
-    (stroke (width 0) (type default))
-    (uuid 354b2157-3850-4b74-8268-60428d1634fa)
-  )
   (wire (pts (xy 44.45 67.31) (xy 50.8 67.31))
     (stroke (width 0) (type default))
     (uuid 36468505-2fe7-4d53-964f-6d04237eb44e)
@@ -700,6 +688,10 @@
   (wire (pts (xy 58.42 52.07) (xy 59.69 52.07))
     (stroke (width 0) (type default))
     (uuid 3e20977e-fde6-4baa-b634-42326686ccae)
+  )
+  (wire (pts (xy 115.57 49.53) (xy 120.65 49.53))
+    (stroke (width 0) (type default))
+    (uuid 3e66b90a-3ee5-4479-8c75-3071f29a47de)
   )
   (wire (pts (xy 180.34 49.53) (xy 180.34 44.45))
     (stroke (width 0) (type default))
@@ -749,7 +741,7 @@
     (stroke (width 0) (type default))
     (uuid 50ddb0c3-133e-4646-8afe-008cb571bf5d)
   )
-  (wire (pts (xy 121.92 40.64) (xy 121.92 52.07))
+  (wire (pts (xy 110.49 40.64) (xy 110.49 45.72))
     (stroke (width 0) (type default))
     (uuid 53d45f23-956f-4568-9c91-905f85c91a23)
   )
@@ -793,7 +785,7 @@
     (stroke (width 0) (type default))
     (uuid 6398efe0-ee42-4456-b5ae-a98c6e688850)
   )
-  (wire (pts (xy 127 31.75) (xy 127 36.83))
+  (wire (pts (xy 115.57 31.75) (xy 115.57 36.83))
     (stroke (width 0) (type default))
     (uuid 6546f4aa-b07b-4c2a-886f-aa1b4492a5f0)
   )
@@ -812,6 +804,10 @@
   (wire (pts (xy 165.1 143.51) (xy 171.45 143.51))
     (stroke (width 0) (type default))
     (uuid 68c057df-7be9-4ee6-838c-dd35103259fc)
+  )
+  (wire (pts (xy 119.38 40.64) (xy 128.27 40.64))
+    (stroke (width 0) (type default))
+    (uuid 6a1c42aa-bedb-4149-a54a-87bab0625c01)
   )
   (wire (pts (xy 135.89 49.53) (xy 135.89 44.45))
     (stroke (width 0) (type default))
@@ -853,7 +849,11 @@
     (stroke (width 0) (type default))
     (uuid 73247781-9ce0-427a-bbc4-573fbbcf14c7)
   )
-  (wire (pts (xy 118.11 31.75) (xy 118.11 36.83))
+  (wire (pts (xy 128.27 40.64) (xy 128.27 52.07))
+    (stroke (width 0) (type default))
+    (uuid 74b6fa5e-66dd-4915-aab9-77844ad55c50)
+  )
+  (wire (pts (xy 106.68 31.75) (xy 106.68 36.83))
     (stroke (width 0) (type default))
     (uuid 75efe6a0-6f6f-4160-95ac-9b4f39bdfc73)
   )
@@ -873,7 +873,7 @@
     (stroke (width 0) (type default))
     (uuid 8396b82d-1a55-46bf-8bd1-fb5294ab5606)
   )
-  (wire (pts (xy 99.06 31.75) (xy 105.41 31.75))
+  (wire (pts (xy 99.06 31.75) (xy 106.68 31.75))
     (stroke (width 0) (type default))
     (uuid 85ebd3d7-40f0-4384-9620-eb003eb63214)
   )
@@ -913,6 +913,10 @@
     (stroke (width 0) (type default))
     (uuid 908d8c6b-7f52-4cba-8043-8fe332bb3e06)
   )
+  (wire (pts (xy 115.57 31.75) (xy 120.65 31.75))
+    (stroke (width 0) (type default))
+    (uuid 94d8306f-7d38-4074-b5dc-e6eaa75a4db4)
+  )
   (wire (pts (xy 175.26 52.07) (xy 176.53 52.07))
     (stroke (width 0) (type default))
     (uuid 955d0525-5664-4e87-9046-c9750b7d7f0b)
@@ -924,6 +928,10 @@
   (wire (pts (xy 111.76 168.91) (xy 120.65 168.91))
     (stroke (width 0) (type default))
     (uuid 96a975ab-9cba-4cff-a0c7-781021f6113a)
+  )
+  (wire (pts (xy 123.19 45.72) (xy 123.19 52.07))
+    (stroke (width 0) (type default))
+    (uuid 9825ceab-9f83-4b92-8edc-08d49f1320b0)
   )
   (wire (pts (xy 58.42 40.64) (xy 58.42 52.07))
     (stroke (width 0) (type default))
@@ -945,7 +953,7 @@
     (stroke (width 0) (type default))
     (uuid af4f80d1-15b8-4a54-b9cd-1809a4c68404)
   )
-  (wire (pts (xy 99.06 49.53) (xy 105.41 49.53))
+  (wire (pts (xy 99.06 49.53) (xy 106.68 49.53))
     (stroke (width 0) (type default))
     (uuid b13ce4ae-f2af-483a-88b2-89544010cc2a)
   )
@@ -1004,10 +1012,6 @@
   (wire (pts (xy 144.78 49.53) (xy 144.78 44.45))
     (stroke (width 0) (type default))
     (uuid cead492d-118f-4d1b-b001-76f86192b647)
-  )
-  (wire (pts (xy 130.81 52.07) (xy 128.27 52.07))
-    (stroke (width 0) (type default))
-    (uuid cef3e30f-c12b-4742-8798-93e3ebabff9a)
   )
   (wire (pts (xy 54.61 31.75) (xy 63.5 31.75))
     (stroke (width 0) (type default))
@@ -1073,7 +1077,7 @@
     (stroke (width 0) (type default))
     (uuid f210fbf3-18b7-4d6e-ab6b-9bf0f800076f)
   )
-  (wire (pts (xy 118.11 31.75) (xy 127 31.75))
+  (wire (pts (xy 106.68 31.75) (xy 115.57 31.75))
     (stroke (width 0) (type default))
     (uuid f6639a7f-0029-426f-bb87-c21ebcd32ece)
   )
@@ -1185,11 +1189,6 @@
     (pin "2" (uuid 47b908d9-2dae-4e3d-b3f4-c7b4c7b258a0))
     (pin "5" (uuid 8e9f35e7-28fb-4fe0-8f8d-cd95fc03e08f))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U19") (unit 1)
@@ -1220,11 +1219,6 @@
     (pin "2" (uuid 01afb47d-6276-4215-9974-6f2fa78c88ac))
     (pin "5" (uuid d72f822b-cc3a-4aef-871a-4290d56c3d5b))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U20") (unit 2)
@@ -1345,11 +1339,6 @@
     (pin "2" (uuid 380e0240-6283-4f77-ba1b-f39f6607d24d))
     (pin "5" (uuid 214ff56f-2ab6-4797-9793-e6dc8d93c8b4))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U26") (unit 2)
@@ -1380,11 +1369,6 @@
     (pin "2" (uuid 3cdb3794-ee59-48de-915e-e2d8a816a130))
     (pin "5" (uuid 17e7e65a-44cd-4d93-815d-49de719d63a7))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U28") (unit 2)
@@ -1415,11 +1399,6 @@
     (pin "2" (uuid 2675bff5-2cce-42d2-bc85-b044ba7f9854))
     (pin "5" (uuid 3bd4f93f-2835-434d-8571-e87832f2d8e6))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U23") (unit 1)
@@ -1450,11 +1429,6 @@
     (pin "2" (uuid 90bc932c-4934-4726-b7d2-da2c8672f872))
     (pin "5" (uuid 9c0efa36-22fd-451b-82e2-b2cb913d0505))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U22") (unit 1)
@@ -1485,11 +1459,6 @@
     (pin "2" (uuid 47ccad72-974f-413f-b2ad-63b595f524d4))
     (pin "5" (uuid 72d3c839-56a8-40c1-a3b0-d66a2853efba))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U23") (unit 2)
@@ -1548,11 +1517,6 @@
     (pin "2" (uuid 8b994dde-908a-450a-afd0-7da380558f64))
     (pin "5" (uuid 2e6aa0e1-5c50-4d6a-80e4-ef2da7f7830e))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U24") (unit 1)
@@ -1641,11 +1605,6 @@
     (pin "2" (uuid 2ffa1fa2-958e-49eb-aaf5-264cd3d8c4ce))
     (pin "5" (uuid 4501c862-82d7-40f9-898d-67c9d35c3c70))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U29") (unit 1)
@@ -1736,11 +1695,6 @@
     (pin "2" (uuid af039a2b-e24a-4b0a-b250-c6ebcfd2fce2))
     (pin "5" (uuid dace17e8-8428-4093-b225-2fc1abd61d3d))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U26") (unit 1)
@@ -1771,11 +1725,6 @@
     (pin "2" (uuid eff248ff-d293-45cd-b974-113cc2ed173f))
     (pin "5" (uuid 845b52a3-5176-4410-937b-901c254482da))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U19") (unit 2)
@@ -1836,11 +1785,6 @@
     (pin "2" (uuid a8520276-7974-4cf4-871a-de7b09ef4975))
     (pin "5" (uuid 97e8f885-8795-4e67-a048-b98f2660b399))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U27") (unit 1)
@@ -1901,11 +1845,6 @@
     (pin "2" (uuid 398ba6f9-63bb-4741-80de-8451f75392f6))
     (pin "5" (uuid 906d7726-b705-45bb-a8d8-0c12233e655a))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U17") (unit 2)
@@ -1936,11 +1875,6 @@
     (pin "2" (uuid 0d860cac-6655-4ae0-ab2a-88c4450cbc64))
     (pin "5" (uuid d5f30db9-54f5-455f-b308-0c62dc2e1b55))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U21") (unit 1)
@@ -1971,11 +1905,6 @@
     (pin "2" (uuid d82c4dec-06e5-49ce-86f5-92f7f2d42b0c))
     (pin "5" (uuid 9e46f0d1-8546-4a52-a3d0-b4137ffd60ab))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U25") (unit 2)
@@ -2006,11 +1935,6 @@
     (pin "2" (uuid 7c26be95-f0c8-4320-91c4-281bc0bab161))
     (pin "5" (uuid 25d03eea-a647-4b79-892e-d07d97f42cb1))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U17") (unit 1)
@@ -2041,11 +1965,6 @@
     (pin "2" (uuid d7411497-78db-490a-b479-3b29e3796041))
     (pin "5" (uuid 74b09a2e-5c3f-4442-b272-117a21985b83))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U29") (unit 2)
@@ -2106,11 +2025,6 @@
     (pin "2" (uuid 86d2af7e-2f17-46c7-9569-b2a3038a3dab))
     (pin "5" (uuid 1fef52a9-17c9-4c89-a4b3-24854c8de487))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U28") (unit 1)
@@ -2119,19 +2033,19 @@
     )
   )
 
-  (symbol (lib_id "power:+3.3V") (at 105.41 31.75 0) (unit 1)
+  (symbol (lib_id "power:+3.3V") (at 120.65 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 97c7ef3e-92bc-4309-a5b9-401bff294bdb)
-    (property "Reference" "#PWR?" (at 105.41 35.56 0)
+    (property "Reference" "#PWR?" (at 120.65 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3.3V" (at 105.41 28.1742 0)
+    (property "Value" "+3.3V" (at 120.65 28.1742 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 105.41 31.75 0)
+    (property "Footprint" "" (at 120.65 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 105.41 31.75 0)
+    (property "Datasheet" "" (at 120.65 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9a1e92ac-9175-4a6d-8236-47ab23c21031))
@@ -2199,11 +2113,6 @@
     (pin "2" (uuid 3f125f97-81be-4c71-8cdd-30e1f74f50ee))
     (pin "5" (uuid 2719ff56-f6c1-46b7-8cd7-6f298aa9705f))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U20") (unit 1)
@@ -2234,11 +2143,6 @@
     (pin "2" (uuid 8c8beb35-bc74-402c-a6fd-d3ae63ea0ff7))
     (pin "5" (uuid 364d6e67-21a4-4c6f-8583-4f5cba0fb57c))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U21") (unit 2)
@@ -2297,11 +2201,6 @@
     (pin "2" (uuid bf6cc769-3f65-4c37-b338-6f3648bd9bc2))
     (pin "5" (uuid aaf6f58b-5bf6-48bd-8026-25040d2930d8))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U22") (unit 2)
@@ -2332,11 +2231,6 @@
     (pin "2" (uuid c977ac04-ebce-4213-9cbd-1d9b69c1277f))
     (pin "5" (uuid d70cf402-2cac-4c98-b4c6-134bdb4719bd))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U25") (unit 1)
@@ -2397,11 +2291,6 @@
     (pin "2" (uuid 17cfbd27-7536-4f04-8a4f-955f55af8fa4))
     (pin "5" (uuid 5c7c9e51-4d4a-42c1-87a3-449375e26190))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U18") (unit 1)
@@ -2432,11 +2321,6 @@
     (pin "2" (uuid d6d7e3be-c455-4a42-806c-fe72026df8d2))
     (pin "5" (uuid 27003dfc-176b-49a4-a3c1-0a480f190125))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U27") (unit 2)
@@ -2475,19 +2359,19 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer") (at 118.11 40.64 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer") (at 106.68 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9f555f3-1ba2-4a47-ae5b-0c8b76551991)
-    (property "Reference" "R?" (at 124.46 39.37 0)
+    (property "Reference" "R?" (at 113.03 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Variable" (at 124.46 41.91 0)
+    (property "Value" "R_Variable" (at 113.03 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 118.11 40.64 0)
+    (property "Footprint" "" (at 106.68 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 118.11 40.64 0)
+    (property "Datasheet" "~" (at 106.68 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 68453347-3d45-4b9c-8740-7a650a05de41))
@@ -2527,11 +2411,6 @@
     (pin "2" (uuid 910a1e8f-7037-4e3b-8cd0-b377df0164f6))
     (pin "5" (uuid bc4046b1-602d-4796-a02a-e93066d1dbd0))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U24") (unit 2)
@@ -2590,11 +2469,6 @@
     (pin "2" (uuid cf3ba186-aca0-4630-993c-63ed96751353))
     (pin "5" (uuid 041d3b04-1685-47ba-ac07-c7317e19a7e2))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U30") (unit 2)
@@ -2603,19 +2477,19 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer") (at 127 40.64 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer") (at 115.57 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d1461d25-7399-4c40-b9b9-961db8ddc143)
-    (property "Reference" "R?" (at 133.35 39.37 0)
+    (property "Reference" "R?" (at 121.92 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Variable" (at 133.35 41.91 0)
+    (property "Value" "R_Variable" (at 121.92 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 127 40.64 0)
+    (property "Footprint" "" (at 115.57 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 127 40.64 0)
+    (property "Datasheet" "~" (at 115.57 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid af1ac7f0-1b46-4fb9-aecc-0c2745c8d3a3))
@@ -2655,11 +2529,6 @@
     (pin "2" (uuid 2eaa8027-bed1-4f56-b5c6-2bf4b0d78a65))
     (pin "5" (uuid 1e4fa618-004e-4780-9621-72dd5637d168))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U31") (unit 1)
@@ -2668,19 +2537,19 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 105.41 49.53 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 120.65 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dbde8659-3381-4fd1-b595-493dcdc3da2f)
-    (property "Reference" "#PWR?" (at 105.41 55.88 0)
+    (property "Reference" "#PWR?" (at 120.65 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 105.41 53.9734 0)
+    (property "Value" "GND" (at 120.65 53.9734 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 105.41 49.53 0)
+    (property "Footprint" "" (at 120.65 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 105.41 49.53 0)
+    (property "Datasheet" "" (at 120.65 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1a720d9e-2701-4e23-b0f4-3bcc88f1567e))
@@ -2718,11 +2587,6 @@
     (pin "2" (uuid f4a72340-1433-4e8f-952a-cccf701fda4c))
     (pin "5" (uuid dbb10b5a-4fe4-4a78-8caa-3edbd91d5a99))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U18") (unit 2)
@@ -2813,11 +2677,6 @@
     (pin "2" (uuid b9a59682-596a-4501-85b7-3727cb5d6924))
     (pin "5" (uuid d84c27ba-e9ce-4f96-8135-f40b0cd29347))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 1)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U30") (unit 1)
@@ -2848,11 +2707,6 @@
     (pin "2" (uuid 19e45e13-aa58-40ac-9f7e-6bf2f7eb909c))
     (pin "5" (uuid 2895d4c0-61f1-49ad-8c63-f4fd515fa9cf))
     (instances
-      (project "Smart Home Controller V3"
-        (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
-          (reference "U?") (unit 2)
-        )
-      )
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
           (reference "U31") (unit 2)
