@@ -702,7 +702,7 @@
   (symbol (lib_id "LED:WS2812B") (at 74.93 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0264ab02-8af4-4d82-a04a-ff4850b13c69)
-    (property "Reference" "D26" (at 86.36 129.4639 0)
+    (property "Reference" "D?" (at 86.36 129.4639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 86.36 132.0039 0)
@@ -721,10 +721,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D72") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -733,7 +733,7 @@
   (symbol (lib_id "LED:WS2812B") (at 44.45 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 03d26e52-ad32-4102-8d9e-853f0e270f0f)
-    (property "Reference" "D26" (at 33.02 40.5639 0)
+    (property "Reference" "D?" (at 33.02 40.5639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 33.02 43.1039 0)
@@ -752,10 +752,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D40") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -764,7 +764,7 @@
   (symbol (lib_id "LED:WS2812B") (at 105.41 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 058606c2-782a-44c1-851d-576c87c3acba)
-    (property "Reference" "D26" (at 93.98 76.1239 0)
+    (property "Reference" "D?" (at 93.98 76.1239 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 93.98 78.6639 0)
@@ -783,7 +783,7 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
           (reference "D53") (unit 1)
@@ -795,7 +795,7 @@
   (symbol (lib_id "LED:WS2812B") (at 29.21 115.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0678e037-7f36-457d-b961-a8bded227bbf)
-    (property "Reference" "D26" (at 17.78 111.6839 0)
+    (property "Reference" "D?" (at 17.78 111.6839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 17.78 114.2239 0)
@@ -814,10 +814,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D59") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -826,7 +826,7 @@
   (symbol (lib_id "LED:WS2812B") (at 90.17 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0764c79e-6694-411e-84e1-7353c058465f)
-    (property "Reference" "D26" (at 101.6 58.3439 0)
+    (property "Reference" "D?" (at 101.6 58.3439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 101.6 60.8839 0)
@@ -845,10 +845,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D50") (unit 1)
+          (reference "D44") (unit 1)
         )
       )
     )
@@ -857,7 +857,7 @@
   (symbol (lib_id "LED:WS2812B") (at 29.21 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ddacac7-4c97-4074-af50-7dd825c9a80e)
-    (property "Reference" "D26" (at 40.64 22.7839 0)
+    (property "Reference" "D?" (at 40.64 22.7839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 40.64 25.3239 0)
@@ -876,10 +876,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D26") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -888,7 +888,7 @@
   (symbol (lib_id "LED:WS2812B") (at 135.89 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 17ae6448-2357-44a0-bef9-a3d5d13ec4bc)
-    (property "Reference" "D26" (at 147.32 129.4639 0)
+    (property "Reference" "D?" (at 147.32 129.4639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 147.32 132.0039 0)
@@ -907,10 +907,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D88") (unit 1)
+          (reference "D72") (unit 1)
         )
       )
     )
@@ -919,7 +919,7 @@
   (symbol (lib_id "LED:WS2812B") (at 90.17 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1b4a6798-c802-4f90-92ef-a1e6e4b80aa6)
-    (property "Reference" "D26" (at 101.6 93.9039 0)
+    (property "Reference" "D?" (at 101.6 93.9039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 101.6 96.4439 0)
@@ -938,10 +938,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D74") (unit 1)
+          (reference "D46") (unit 1)
         )
       )
     )
@@ -950,7 +950,7 @@
   (symbol (lib_id "LED:WS2812B") (at 120.65 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21bb345a-930a-4473-a933-712f6fe779ff)
-    (property "Reference" "D26" (at 132.08 93.9039 0)
+    (property "Reference" "D?" (at 132.08 93.9039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 132.08 96.4439 0)
@@ -969,10 +969,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D82") (unit 1)
+          (reference "D62") (unit 1)
         )
       )
     )
@@ -981,7 +981,7 @@
   (symbol (lib_id "LED:WS2812B") (at 29.21 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 254b1254-ae3a-42bb-9918-aace1a6d1fe3)
-    (property "Reference" "D26" (at 40.64 93.9039 0)
+    (property "Reference" "D?" (at 40.64 93.9039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 40.64 96.4439 0)
@@ -1000,10 +1000,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D58") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
     )
@@ -1012,7 +1012,7 @@
   (symbol (lib_id "LED:WS2812B") (at 29.21 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c27cfeb-e418-4c94-ac26-362abc6ca0d9)
-    (property "Reference" "D26" (at 17.78 40.5639 0)
+    (property "Reference" "D?" (at 17.78 40.5639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 17.78 43.1039 0)
@@ -1031,10 +1031,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D41") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -1043,7 +1043,7 @@
   (symbol (lib_id "LED:WS2812B") (at 59.69 115.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2edc13b3-a03b-4320-9ecb-bb1916e411fb)
-    (property "Reference" "D26" (at 48.26 111.6839 0)
+    (property "Reference" "D?" (at 48.26 111.6839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 48.26 114.2239 0)
@@ -1062,10 +1062,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D67") (unit 1)
+          (reference "D31") (unit 1)
         )
       )
     )
@@ -1074,7 +1074,7 @@
   (symbol (lib_id "LED:WS2812B") (at 90.17 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 31007b5f-7466-45c1-be67-c89f71be0551)
-    (property "Reference" "D26" (at 101.6 129.4639 0)
+    (property "Reference" "D?" (at 101.6 129.4639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 101.6 132.0039 0)
@@ -1093,10 +1093,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D76") (unit 1)
+          (reference "D48") (unit 1)
         )
       )
     )
@@ -1105,7 +1105,7 @@
   (symbol (lib_id "LED:WS2812B") (at 29.21 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 33545e9a-404a-4d3e-bc0d-ec6a77c9a9ce)
-    (property "Reference" "D26" (at 17.78 76.1239 0)
+    (property "Reference" "D?" (at 17.78 76.1239 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 17.78 78.6639 0)
@@ -1124,10 +1124,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D43") (unit 1)
+          (reference "D13") (unit 1)
         )
       )
     )
@@ -1136,7 +1136,7 @@
   (symbol (lib_id "LED:WS2812B") (at 59.69 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35ca73cd-1816-4a2b-b28b-7601127bec61)
-    (property "Reference" "D26" (at 48.26 147.2439 0)
+    (property "Reference" "D?" (at 48.26 147.2439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 48.26 149.7839 0)
@@ -1155,10 +1155,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D69") (unit 1)
+          (reference "D33") (unit 1)
         )
       )
     )
@@ -1167,7 +1167,7 @@
   (symbol (lib_id "LED:WS2812B") (at 135.89 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3e5f6074-d06f-4a73-b28e-51cc6b719047)
-    (property "Reference" "D26" (at 124.46 76.1239 0)
+    (property "Reference" "D?" (at 124.46 76.1239 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 124.46 78.6639 0)
@@ -1186,10 +1186,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D57") (unit 1)
+          (reference "D69") (unit 1)
         )
       )
     )
@@ -1198,7 +1198,7 @@
   (symbol (lib_id "LED:WS2812B") (at 74.93 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 40d0ceab-62e4-4752-8ef7-b38b144db1ec)
-    (property "Reference" "D26" (at 86.36 22.7839 0)
+    (property "Reference" "D?" (at 86.36 22.7839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 86.36 25.3239 0)
@@ -1217,10 +1217,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D29") (unit 1)
+          (reference "D34") (unit 1)
         )
       )
     )
@@ -1229,7 +1229,7 @@
   (symbol (lib_id "LED:WS2812B") (at 120.65 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4751a8d0-68ca-4073-a3cd-2ee448729d57)
-    (property "Reference" "D26" (at 132.08 22.7839 0)
+    (property "Reference" "D?" (at 132.08 22.7839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 132.08 25.3239 0)
@@ -1248,10 +1248,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D32") (unit 1)
+          (reference "D58") (unit 1)
         )
       )
     )
@@ -1260,7 +1260,7 @@
   (symbol (lib_id "LED:WS2812B") (at 59.69 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48e7dd11-b5a6-4f67-b3d6-5c6f8574cebd)
-    (property "Reference" "D26" (at 71.12 22.7839 0)
+    (property "Reference" "D?" (at 71.12 22.7839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 71.12 25.3239 0)
@@ -1279,10 +1279,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D28") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -1291,7 +1291,7 @@
   (symbol (lib_id "LED:WS2812B") (at 44.45 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 49839ebf-7ae6-477b-a439-ea84cbd6b71a)
-    (property "Reference" "D26" (at 33.02 147.2439 0)
+    (property "Reference" "D?" (at 33.02 147.2439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 33.02 149.7839 0)
@@ -1310,10 +1310,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D65") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -1322,7 +1322,7 @@
   (symbol (lib_id "LED:WS2812B") (at 135.89 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4ab6f2a6-3866-49f6-9d50-19854b2ee72a)
-    (property "Reference" "D26" (at 147.32 22.7839 0)
+    (property "Reference" "D?" (at 147.32 22.7839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 147.32 25.3239 0)
@@ -1341,10 +1341,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D33") (unit 1)
+          (reference "D66") (unit 1)
         )
       )
     )
@@ -1353,7 +1353,7 @@
   (symbol (lib_id "LED:WS2812B") (at 105.41 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4c2b2785-b388-4512-85f7-52fbcb98382b)
-    (property "Reference" "D26" (at 116.84 22.7839 0)
+    (property "Reference" "D?" (at 116.84 22.7839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 116.84 25.3239 0)
@@ -1372,10 +1372,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D31") (unit 1)
+          (reference "D50") (unit 1)
         )
       )
     )
@@ -1384,7 +1384,7 @@
   (symbol (lib_id "LED:WS2812B") (at 135.89 115.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4e5d6a7f-7c79-46cf-8774-3ffefb10ea26)
-    (property "Reference" "D26" (at 124.46 111.6839 0)
+    (property "Reference" "D?" (at 124.46 111.6839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 124.46 114.2239 0)
@@ -1403,10 +1403,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D87") (unit 1)
+          (reference "D71") (unit 1)
         )
       )
     )
@@ -1415,7 +1415,7 @@
   (symbol (lib_id "LED:WS2812B") (at 135.89 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 56a50b16-e176-40bd-aac1-13f278debdca)
-    (property "Reference" "D26" (at 124.46 147.2439 0)
+    (property "Reference" "D?" (at 124.46 147.2439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 124.46 149.7839 0)
@@ -1434,10 +1434,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D89") (unit 1)
+          (reference "D73") (unit 1)
         )
       )
     )
@@ -1446,7 +1446,7 @@
   (symbol (lib_id "LED:WS2812B") (at 59.69 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 572656d9-25ab-4093-abb5-e0a1024ed7e6)
-    (property "Reference" "D26" (at 71.12 129.4639 0)
+    (property "Reference" "D?" (at 71.12 129.4639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 71.12 132.0039 0)
@@ -1465,10 +1465,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D68") (unit 1)
+          (reference "D32") (unit 1)
         )
       )
     )
@@ -1477,7 +1477,7 @@
   (symbol (lib_id "LED:WS2812B") (at 59.69 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a210cc6-276f-49c5-b333-f05442411798)
-    (property "Reference" "D26" (at 48.26 76.1239 0)
+    (property "Reference" "D?" (at 48.26 76.1239 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 48.26 78.6639 0)
@@ -1496,10 +1496,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D47") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -1508,7 +1508,7 @@
   (symbol (lib_id "LED:WS2812B") (at 90.17 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ac3fe21-7e09-4c94-8a20-37ab6661b93b)
-    (property "Reference" "D26" (at 78.74 76.1239 0)
+    (property "Reference" "D?" (at 78.74 76.1239 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 78.74 78.6639 0)
@@ -1527,10 +1527,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D51") (unit 1)
+          (reference "D45") (unit 1)
         )
       )
     )
@@ -1539,7 +1539,7 @@
   (symbol (lib_id "LED:WS2812B") (at 74.93 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5fbf33a0-ca9d-4fbe-983a-ec8be0dce89a)
-    (property "Reference" "D26" (at 86.36 93.9039 0)
+    (property "Reference" "D?" (at 86.36 93.9039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 86.36 96.4439 0)
@@ -1558,10 +1558,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D70") (unit 1)
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -1570,7 +1570,7 @@
   (symbol (lib_id "LED:WS2812B") (at 29.21 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e3ee6bc-ed81-49e8-8e43-8459471c1ab7)
-    (property "Reference" "D26" (at 17.78 147.2439 0)
+    (property "Reference" "D?" (at 17.78 147.2439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 17.78 149.7839 0)
@@ -1589,10 +1589,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D61") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -1601,7 +1601,7 @@
   (symbol (lib_id "LED:WS2812B") (at 74.93 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 75b7d253-4ab9-4a82-8390-02900a1a998a)
-    (property "Reference" "D26" (at 86.36 58.3439 0)
+    (property "Reference" "D?" (at 86.36 58.3439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 86.36 60.8839 0)
@@ -1620,10 +1620,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D48") (unit 1)
+          (reference "D36") (unit 1)
         )
       )
     )
@@ -1632,7 +1632,7 @@
   (symbol (lib_id "LED:WS2812B") (at 120.65 115.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7a28e8f7-0d6c-45bb-86fa-380e4b7a73b2)
-    (property "Reference" "D26" (at 109.22 111.6839 0)
+    (property "Reference" "D?" (at 109.22 111.6839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 109.22 114.2239 0)
@@ -1651,10 +1651,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D83") (unit 1)
+          (reference "D63") (unit 1)
         )
       )
     )
@@ -1663,7 +1663,7 @@
   (symbol (lib_id "LED:WS2812B") (at 90.17 115.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7abc0dc2-662d-4708-a1e2-d8a97d1ba868)
-    (property "Reference" "D26" (at 78.74 111.6839 0)
+    (property "Reference" "D?" (at 78.74 111.6839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 78.74 114.2239 0)
@@ -1682,10 +1682,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D75") (unit 1)
+          (reference "D47") (unit 1)
         )
       )
     )
@@ -1694,7 +1694,7 @@
   (symbol (lib_id "LED:WS2812B") (at 29.21 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7cb12587-bedf-4b76-9345-f45e50c88013)
-    (property "Reference" "D26" (at 40.64 58.3439 0)
+    (property "Reference" "D?" (at 40.64 58.3439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 40.64 60.8839 0)
@@ -1713,10 +1713,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D42") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -1725,7 +1725,7 @@
   (symbol (lib_id "LED:WS2812B") (at 59.69 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 864606c9-1b9c-43cf-a0a9-9a7b203002b3)
-    (property "Reference" "D26" (at 71.12 58.3439 0)
+    (property "Reference" "D?" (at 71.12 58.3439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 71.12 60.8839 0)
@@ -1744,10 +1744,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D46") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -1756,7 +1756,7 @@
   (symbol (lib_id "LED:WS2812B") (at 105.41 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8846af3a-6d2f-466d-87e7-d8829adb70c4)
-    (property "Reference" "D26" (at 116.84 93.9039 0)
+    (property "Reference" "D?" (at 116.84 93.9039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 116.84 96.4439 0)
@@ -1775,10 +1775,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D78") (unit 1)
+          (reference "D54") (unit 1)
         )
       )
     )
@@ -1787,7 +1787,7 @@
   (symbol (lib_id "LED:WS2812B") (at 90.17 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 88c4b21d-e55e-43d1-8808-e53597a44776)
-    (property "Reference" "D26" (at 101.6 22.7839 0)
+    (property "Reference" "D?" (at 101.6 22.7839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 101.6 25.3239 0)
@@ -1806,10 +1806,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D30") (unit 1)
+          (reference "D42") (unit 1)
         )
       )
     )
@@ -1818,7 +1818,7 @@
   (symbol (lib_id "LED:WS2812B") (at 105.41 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 985568de-3ee9-4191-b03a-c915ebf048f8)
-    (property "Reference" "D26" (at 116.84 58.3439 0)
+    (property "Reference" "D?" (at 116.84 58.3439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 116.84 60.8839 0)
@@ -1837,7 +1837,7 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
           (reference "D52") (unit 1)
@@ -1849,7 +1849,7 @@
   (symbol (lib_id "LED:WS2812B") (at 120.65 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a2f12499-2978-4de8-9482-9fa18c769834)
-    (property "Reference" "D26" (at 109.22 76.1239 0)
+    (property "Reference" "D?" (at 109.22 76.1239 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 109.22 78.6639 0)
@@ -1868,10 +1868,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D55") (unit 1)
+          (reference "D61") (unit 1)
         )
       )
     )
@@ -1880,7 +1880,7 @@
   (symbol (lib_id "LED:WS2812B") (at 74.93 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a9e1b71a-9349-42c4-ae35-4a890450bc21)
-    (property "Reference" "D26" (at 63.5 147.2439 0)
+    (property "Reference" "D?" (at 63.5 147.2439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 63.5 149.7839 0)
@@ -1899,10 +1899,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D73") (unit 1)
+          (reference "D41") (unit 1)
         )
       )
     )
@@ -1911,7 +1911,7 @@
   (symbol (lib_id "LED:WS2812B") (at 44.45 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ae904237-409a-4da9-856e-a60f3c12f030)
-    (property "Reference" "D26" (at 33.02 76.1239 0)
+    (property "Reference" "D?" (at 33.02 76.1239 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 33.02 78.6639 0)
@@ -1930,10 +1930,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D45") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -1942,7 +1942,7 @@
   (symbol (lib_id "LED:WS2812B") (at 120.65 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c00cbbd3-cc70-4169-b050-da6b0b91818b)
-    (property "Reference" "D26" (at 109.22 147.2439 0)
+    (property "Reference" "D?" (at 109.22 147.2439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 109.22 149.7839 0)
@@ -1961,10 +1961,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D85") (unit 1)
+          (reference "D65") (unit 1)
         )
       )
     )
@@ -1973,7 +1973,7 @@
   (symbol (lib_id "LED:WS2812B") (at 44.45 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c2fc23fb-52e9-40e5-81b4-1bdc2c6836cc)
-    (property "Reference" "D26" (at 55.88 129.4639 0)
+    (property "Reference" "D?" (at 55.88 129.4639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 55.88 132.0039 0)
@@ -1992,10 +1992,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D64") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -2004,7 +2004,7 @@
   (symbol (lib_id "LED:WS2812B") (at 105.41 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c3bc9c03-f91b-438a-aea4-fdad6c19585a)
-    (property "Reference" "D26" (at 93.98 40.5639 0)
+    (property "Reference" "D?" (at 93.98 40.5639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 93.98 43.1039 0)
@@ -2023,10 +2023,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D36") (unit 1)
+          (reference "D51") (unit 1)
         )
       )
     )
@@ -2035,7 +2035,7 @@
   (symbol (lib_id "LED:WS2812B") (at 44.45 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c5561f2a-cb22-49f0-baeb-2ee22dc30ce6)
-    (property "Reference" "D26" (at 55.88 93.9039 0)
+    (property "Reference" "D?" (at 55.88 93.9039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 55.88 96.4439 0)
@@ -2054,10 +2054,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D62") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -2066,7 +2066,7 @@
   (symbol (lib_id "LED:WS2812B") (at 135.89 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c60a7719-6406-4509-85e6-258c330f6adc)
-    (property "Reference" "D26" (at 124.46 40.5639 0)
+    (property "Reference" "D?" (at 124.46 40.5639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 124.46 43.1039 0)
@@ -2085,10 +2085,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D34") (unit 1)
+          (reference "D67") (unit 1)
         )
       )
     )
@@ -2097,7 +2097,7 @@
   (symbol (lib_id "LED:WS2812B") (at 74.93 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cf3713b2-fe85-4e9e-a51a-17fc30c1c424)
-    (property "Reference" "D26" (at 63.5 76.1239 0)
+    (property "Reference" "D?" (at 63.5 76.1239 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 63.5 78.6639 0)
@@ -2116,10 +2116,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D49") (unit 1)
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -2128,7 +2128,7 @@
   (symbol (lib_id "LED:WS2812B") (at 135.89 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d1897502-5bbe-4fb0-8588-20be0700d1c2)
-    (property "Reference" "D26" (at 147.32 93.9039 0)
+    (property "Reference" "D?" (at 147.32 93.9039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 147.32 96.4439 0)
@@ -2147,10 +2147,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D86") (unit 1)
+          (reference "D70") (unit 1)
         )
       )
     )
@@ -2159,7 +2159,7 @@
   (symbol (lib_id "LED:WS2812B") (at 59.69 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d270b3cb-3367-47e1-b292-60e7bf0ee784)
-    (property "Reference" "D26" (at 71.12 93.9039 0)
+    (property "Reference" "D?" (at 71.12 93.9039 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 71.12 96.4439 0)
@@ -2178,10 +2178,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D66") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -2190,7 +2190,7 @@
   (symbol (lib_id "LED:WS2812B") (at 120.65 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dde9ae69-f7ec-48c6-b343-aacc31a57cda)
-    (property "Reference" "D26" (at 132.08 129.4639 0)
+    (property "Reference" "D?" (at 132.08 129.4639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 132.08 132.0039 0)
@@ -2209,10 +2209,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D84") (unit 1)
+          (reference "D64") (unit 1)
         )
       )
     )
@@ -2221,7 +2221,7 @@
   (symbol (lib_id "LED:WS2812B") (at 120.65 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e1b90303-c931-4f24-8eb9-4252be1c5879)
-    (property "Reference" "D26" (at 132.08 58.3439 0)
+    (property "Reference" "D?" (at 132.08 58.3439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 132.08 60.8839 0)
@@ -2240,10 +2240,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D54") (unit 1)
+          (reference "D60") (unit 1)
         )
       )
     )
@@ -2252,7 +2252,7 @@
   (symbol (lib_id "LED:WS2812B") (at 44.45 115.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5981a0b-d90f-4d7d-be11-523dc760ed57)
-    (property "Reference" "D26" (at 33.02 111.6839 0)
+    (property "Reference" "D?" (at 33.02 111.6839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 33.02 114.2239 0)
@@ -2271,10 +2271,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D63") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -2283,7 +2283,7 @@
   (symbol (lib_id "LED:WS2812B") (at 105.41 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5d753b7-53a5-42a4-85f1-4a331f9a8e14)
-    (property "Reference" "D26" (at 116.84 129.4639 0)
+    (property "Reference" "D?" (at 116.84 129.4639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 116.84 132.0039 0)
@@ -2302,10 +2302,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D80") (unit 1)
+          (reference "D56") (unit 1)
         )
       )
     )
@@ -2314,7 +2314,7 @@
   (symbol (lib_id "LED:WS2812B") (at 44.45 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e6e36bae-e45a-4584-acff-ade90c0dc9bf)
-    (property "Reference" "D26" (at 55.88 22.7839 0)
+    (property "Reference" "D?" (at 55.88 22.7839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 55.88 25.3239 0)
@@ -2333,10 +2333,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D27") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -2345,7 +2345,7 @@
   (symbol (lib_id "LED:WS2812B") (at 90.17 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e7d63fbb-5780-4834-a370-d4d84cdfbd08)
-    (property "Reference" "D26" (at 78.74 147.2439 0)
+    (property "Reference" "D?" (at 78.74 147.2439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 78.74 149.7839 0)
@@ -2364,10 +2364,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D77") (unit 1)
+          (reference "D49") (unit 1)
         )
       )
     )
@@ -2376,7 +2376,7 @@
   (symbol (lib_id "LED:WS2812B") (at 29.21 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea99d10b-0f15-488a-b705-3f4a7802e690)
-    (property "Reference" "D26" (at 40.64 129.4639 0)
+    (property "Reference" "D?" (at 40.64 129.4639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 40.64 132.0039 0)
@@ -2395,10 +2395,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D60") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -2407,7 +2407,7 @@
   (symbol (lib_id "LED:WS2812B") (at 120.65 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb3d09a2-ddff-4edd-b33d-50af37535c48)
-    (property "Reference" "D26" (at 109.22 40.5639 0)
+    (property "Reference" "D?" (at 109.22 40.5639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 109.22 43.1039 0)
@@ -2426,10 +2426,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D35") (unit 1)
+          (reference "D59") (unit 1)
         )
       )
     )
@@ -2438,7 +2438,7 @@
   (symbol (lib_id "LED:WS2812B") (at 105.41 115.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ed32ddd7-8ddb-46c5-81e4-173445cc4ba4)
-    (property "Reference" "D26" (at 93.98 111.6839 0)
+    (property "Reference" "D?" (at 93.98 111.6839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 93.98 114.2239 0)
@@ -2457,10 +2457,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D79") (unit 1)
+          (reference "D55") (unit 1)
         )
       )
     )
@@ -2469,7 +2469,7 @@
   (symbol (lib_id "LED:WS2812B") (at 105.41 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eeb315f8-6fd5-4c4b-90a8-d24e7ae4d102)
-    (property "Reference" "D26" (at 93.98 147.2439 0)
+    (property "Reference" "D?" (at 93.98 147.2439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 93.98 149.7839 0)
@@ -2488,10 +2488,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D81") (unit 1)
+          (reference "D57") (unit 1)
         )
       )
     )
@@ -2500,7 +2500,7 @@
   (symbol (lib_id "LED:WS2812B") (at 74.93 115.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f16ca264-0407-4d0c-9207-675827e006d7)
-    (property "Reference" "D26" (at 63.5 111.6839 0)
+    (property "Reference" "D?" (at 63.5 111.6839 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 63.5 114.2239 0)
@@ -2519,10 +2519,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D71") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -2531,7 +2531,7 @@
   (symbol (lib_id "LED:WS2812B") (at 135.89 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f1ee9d55-59a7-412d-ad60-d979c013ea54)
-    (property "Reference" "D26" (at 147.32 58.3439 0)
+    (property "Reference" "D?" (at 147.32 58.3439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 147.32 60.8839 0)
@@ -2550,10 +2550,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D56") (unit 1)
+          (reference "D68") (unit 1)
         )
       )
     )
@@ -2562,7 +2562,7 @@
   (symbol (lib_id "LED:WS2812B") (at 59.69 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9bd499d-a51a-45a1-baac-8d8c2a301429)
-    (property "Reference" "D26" (at 48.26 40.5639 0)
+    (property "Reference" "D?" (at 48.26 40.5639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 48.26 43.1039 0)
@@ -2581,10 +2581,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D39") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -2593,7 +2593,7 @@
   (symbol (lib_id "LED:WS2812B") (at 90.17 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fac52cb0-cb7d-4fe5-9ded-bbfae87bbc00)
-    (property "Reference" "D26" (at 78.74 40.5639 0)
+    (property "Reference" "D?" (at 78.74 40.5639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 78.74 43.1039 0)
@@ -2612,10 +2612,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D37") (unit 1)
+          (reference "D43") (unit 1)
         )
       )
     )
@@ -2624,7 +2624,7 @@
   (symbol (lib_id "LED:WS2812B") (at 74.93 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fcacae71-1603-4509-a53c-c4299adb4ea4)
-    (property "Reference" "D26" (at 63.5 40.5639 0)
+    (property "Reference" "D?" (at 63.5 40.5639 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 63.5 43.1039 0)
@@ -2643,10 +2643,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D38") (unit 1)
+          (reference "D35") (unit 1)
         )
       )
     )
@@ -2655,7 +2655,7 @@
   (symbol (lib_id "LED:WS2812B") (at 44.45 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe0dc90f-3420-47f3-8039-1b5704afe251)
-    (property "Reference" "D26" (at 55.88 58.3439 0)
+    (property "Reference" "D?" (at 55.88 58.3439 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WS2812B" (at 55.88 60.8839 0)
@@ -2674,10 +2674,10 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
-          (reference "D26") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/408cc871-1fd9-45e8-a11e-e8f3f6fb076e"
-          (reference "D44") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )

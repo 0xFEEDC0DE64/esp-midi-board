@@ -507,7 +507,7 @@
   (symbol (lib_id "Device:D") (at 92.71 66.04 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 294c6d09-6879-4de7-9e90-468157b5c3ad)
-    (property "Reference" "D9" (at 94.742 65.2053 90)
+    (property "Reference" "D5" (at 94.742 65.2053 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (at 94.742 67.7422 90)
@@ -524,7 +524,7 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/6690eb41-2c1d-4abf-90f8-fc4c3740650e/c474a483-652e-46b3-829f-20d9c40cc74b"
-          (reference "D9") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -559,7 +559,7 @@
   (symbol (lib_id "Isolator:4N25") (at 74.93 66.04 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 739761ec-fad8-48c4-97ae-0fc3365f6fea)
-    (property "Reference" "U9" (at 74.93 58.5302 0)
+    (property "Reference" "U4" (at 74.93 58.5302 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4N25" (at 74.93 61.0671 0)
@@ -580,7 +580,7 @@
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/6690eb41-2c1d-4abf-90f8-fc4c3740650e/c474a483-652e-46b3-829f-20d9c40cc74b"
-          (reference "U9") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )

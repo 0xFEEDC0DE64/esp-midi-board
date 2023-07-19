@@ -495,10 +495,6 @@
       "MIDI OUT1"
     ],
     [
-      "5f328d69-1107-471e-b54f-e7e963930f91",
-      "8buttons1"
-    ],
-    [
       "c474a483-652e-46b3-829f-20d9c40cc74b",
       "MIDI IN"
     ],
@@ -509,18 +505,6 @@
     [
       "23ac7157-3583-490b-a889-9bba9a4271ea",
       "MIDI THRU"
-    ],
-    [
-      "989549b1-95ae-4b6f-9bd5-a1e3d73727ae",
-      "8buttons"
-    ],
-    [
-      "ab47cda4-ea9c-4206-bc33-789f8be7bf06",
-      "8buttons2"
-    ],
-    [
-      "226ebcdf-e08a-4b2a-9ba7-bcb0e62f6696",
-      "8buttons3"
     ],
     [
       "e7f7cc17-2405-4f69-85c3-3b13e8232cae",
