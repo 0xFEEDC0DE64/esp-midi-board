@@ -1,9 +1,9 @@
-[submodule "kicad-libraries"]
-	path = kicad-libraries
-	url = git@github.com:espressif/kicad-libraries.git
 [submodule "esp32_midi/flasher"]
 	path = esp32_midi/flasher
-	url = https://github.com/0xFEEDC0DE64/kicad-esp32-usb-cflasher.git
+	url = ../../0xFEEDC0DE64/kicad-esp32-usb-cflasher.git
 [submodule "esp32_midi/espressif-library"]
 	path = esp32_midi/espressif-library
-	url = https://github.com/espressif/kicad-libraries.git
+	url = ../../espressif/kicad-libraries.git
+[submodule "esp32_midi/usb_c"]
+	path = esp32_midi/usb_c
+	url = ../../0xFEEDC0DE64/kicad-usb-c.git

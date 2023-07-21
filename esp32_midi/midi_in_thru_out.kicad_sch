@@ -147,7 +147,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 067e608b-1500-4656-956d-29b5641ffb6f)
-    (property "Sheetname" "MIDI OUT1" (at 129.54 74.2184 0)
+    (property "Sheetname" "MIDI OUT" (at 129.54 74.2184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "midi_out.kicad_sch" (at 129.54 93.2946 0)

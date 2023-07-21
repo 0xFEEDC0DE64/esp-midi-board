@@ -2,7 +2,7 @@
 
   (uuid 1807c21a-6df9-47dc-bbf4-e29a90941229)
 
-  (paper "A4")
+  (paper "A3")
 
   (lib_symbols
     (symbol "Analog_Switch:FSA3157L6X" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
@@ -712,10 +712,9 @@
 
   (no_connect (at 171.45 59.69) (uuid 5f5d5744-e24c-4168-9f33-59e9217d349a))
   (no_connect (at 254 59.69) (uuid 8afc9b0b-30e3-40d2-9d13-b7ea01424ed3))
-  (no_connect (at 335.28 59.69) (uuid b004b634-bc7c-45b9-824e-89a15bc70bae))
   (no_connect (at 90.17 59.69) (uuid c7902f4f-53b9-4b72-bf1a-62c1edf6da69))
 
-  (wire (pts (xy 107.95 50.8) (xy 107.95 44.45))
+  (wire (pts (xy 107.95 50.8) (xy 107.95 45.72))
     (stroke (width 0) (type default))
     (uuid 012f41f5-db78-46f1-b0da-a8563532b397)
   )
@@ -739,7 +738,7 @@
     (stroke (width 0) (type default))
     (uuid 063f4fa0-e547-439e-bff4-4564ddbe9c72)
   )
-  (wire (pts (xy 271.78 50.8) (xy 271.78 44.45))
+  (wire (pts (xy 271.78 50.8) (xy 271.78 45.72))
     (stroke (width 0) (type default))
     (uuid 06a6cea9-e8a9-47b9-8070-eef27aee7a35)
   )
@@ -843,7 +842,7 @@
     (stroke (width 0) (type default))
     (uuid 1a3980d7-736f-4583-92ca-dbf107bcb233)
   )
-  (wire (pts (xy 262.89 33.02) (xy 262.89 36.83))
+  (wire (pts (xy 262.89 33.02) (xy 262.89 38.1))
     (stroke (width 0) (type default))
     (uuid 1a7512b2-ca7f-4b00-9ee4-70748b4726bc)
   )
@@ -895,7 +894,7 @@
     (stroke (width 0) (type default))
     (uuid 23886cfd-4d16-4559-ba24-c25fa90a2b3e)
   )
-  (wire (pts (xy 99.06 50.8) (xy 99.06 44.45))
+  (wire (pts (xy 99.06 50.8) (xy 99.06 45.72))
     (stroke (width 0) (type default))
     (uuid 243b3805-1dd6-4701-b33f-3fee4b1640c7)
   )
@@ -943,7 +942,7 @@
     (stroke (width 0) (type default))
     (uuid 311fabe4-976b-46be-a671-eaf6a35a8f4a)
   )
-  (wire (pts (xy 262.89 50.8) (xy 262.89 44.45))
+  (wire (pts (xy 262.89 50.8) (xy 262.89 45.72))
     (stroke (width 0) (type default))
     (uuid 31555813-0161-4e2d-95e9-d1cc26e6f00d)
   )
@@ -1075,7 +1074,7 @@
     (stroke (width 0) (type default))
     (uuid 4b3788cc-0f15-4d4d-929e-56b0a047d497)
   )
-  (wire (pts (xy 266.7 40.64) (xy 266.7 46.99))
+  (wire (pts (xy 266.7 41.91) (xy 266.7 46.99))
     (stroke (width 0) (type default))
     (uuid 4b7e19e0-fdc8-4fe0-842d-7262e47bf866)
   )
@@ -1123,7 +1122,7 @@
     (stroke (width 0) (type default))
     (uuid 53d0a1e4-ea8f-477d-825e-eeb9466b5d76)
   )
-  (wire (pts (xy 102.87 40.64) (xy 102.87 46.99))
+  (wire (pts (xy 102.87 41.91) (xy 102.87 46.99))
     (stroke (width 0) (type default))
     (uuid 53d45f23-956f-4568-9c91-905f85c91a23)
   )
@@ -1191,7 +1190,7 @@
     (stroke (width 0) (type default))
     (uuid 6398efe0-ee42-4456-b5ae-a98c6e688850)
   )
-  (wire (pts (xy 107.95 33.02) (xy 107.95 36.83))
+  (wire (pts (xy 107.95 33.02) (xy 107.95 38.1))
     (stroke (width 0) (type default))
     (uuid 6546f4aa-b07b-4c2a-886f-aa1b4492a5f0)
   )
@@ -1287,7 +1286,7 @@
     (stroke (width 0) (type default))
     (uuid 744e4e18-90fe-4909-a239-d699e89c49d5)
   )
-  (wire (pts (xy 111.76 40.64) (xy 111.76 53.34))
+  (wire (pts (xy 111.76 41.91) (xy 111.76 53.34))
     (stroke (width 0) (type default))
     (uuid 74b6fa5e-66dd-4915-aab9-77844ad55c50)
   )
@@ -1295,7 +1294,7 @@
     (stroke (width 0) (type default))
     (uuid 74f00f67-ea45-4ceb-bdf8-8caccb3227de)
   )
-  (wire (pts (xy 99.06 33.02) (xy 99.06 36.83))
+  (wire (pts (xy 99.06 33.02) (xy 99.06 38.1))
     (stroke (width 0) (type default))
     (uuid 75efe6a0-6f6f-4160-95ac-9b4f39bdfc73)
   )
@@ -1363,7 +1362,7 @@
     (stroke (width 0) (type default))
     (uuid 87144dca-9d0b-4ba4-a2c6-cabb6ac2041b)
   )
-  (wire (pts (xy 271.78 33.02) (xy 271.78 36.83))
+  (wire (pts (xy 271.78 33.02) (xy 271.78 38.1))
     (stroke (width 0) (type default))
     (uuid 875345fa-b087-4027-96f1-515918384203)
   )
@@ -1567,7 +1566,7 @@
     (stroke (width 0) (type default))
     (uuid ba2cd69c-2eb0-44e6-a538-c01650aa09e7)
   )
-  (wire (pts (xy 275.59 40.64) (xy 275.59 53.34))
+  (wire (pts (xy 275.59 41.91) (xy 275.59 53.34))
     (stroke (width 0) (type default))
     (uuid ba3771d6-8683-4d71-bc61-fde6fdb5b969)
   )
@@ -1960,7 +1959,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 936082e6-5891-4d05-8562-d61b892dddea)
   )
-  (hierarchical_label "OUTPUT" (shape input) (at 170.18 129.54 0) (fields_autoplaced)
+  (hierarchical_label "OUTPUT0" (shape input) (at 170.18 129.54 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9399c0b6-b16c-43aa-8dca-41a868790ee3)
   )
@@ -2181,19 +2180,19 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer") (at 271.78 40.64 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer") (at 271.78 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0c71cee6-7015-4dda-983d-e3addde03980)
-    (property "Reference" "R?" (at 278.13 39.37 0)
+    (property "Reference" "R?" (at 278.13 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Variable" (at 278.13 41.91 0)
+    (property "Value" "R_Variable" (at 278.13 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (at 271.78 40.64 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (at 271.78 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 271.78 40.64 0)
+    (property "Datasheet" "~" (at 271.78 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b3377a19-44be-41c7-a19b-5840e4c73f3d))
@@ -3240,8 +3239,8 @@
     (pin "3" (uuid 7746ffd2-c632-408d-91f0-6f374e6b1b69))
     (pin "4" (uuid 419c47ab-33d0-4471-88bc-3faca4592d7b))
     (pin "6" (uuid 959880e3-1f4e-45ce-81a5-c640e1d0dd6d))
-    (pin "2" (uuid 2675bff5-2cce-42d2-bc85-b044ba7f9855))
-    (pin "5" (uuid 3bd4f93f-2835-434d-8571-e87832f2d8e7))
+    (pin "2" (uuid 2675bff5-2cce-42d2-bc85-b044ba7f9856))
+    (pin "5" (uuid 3bd4f93f-2835-434d-8571-e87832f2d8e8))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -3817,19 +3816,19 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer") (at 262.89 40.64 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer") (at 262.89 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9aba7be7-7fcf-4252-a4d0-f68581aab558)
-    (property "Reference" "R?" (at 269.24 39.37 0)
+    (property "Reference" "R?" (at 269.24 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Variable" (at 269.24 41.91 0)
+    (property "Value" "R_Variable" (at 269.24 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (at 262.89 40.64 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (at 262.89 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 262.89 40.64 0)
+    (property "Datasheet" "~" (at 262.89 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d8589493-7724-4277-ab7f-32ceba7fe6da))
@@ -3956,8 +3955,8 @@
     (pin "3" (uuid c73a3e76-b498-4c9e-954f-b7cced52afe7))
     (pin "4" (uuid 9c633a16-84c3-4baf-bb9c-8a655349a157))
     (pin "6" (uuid 8e38630b-aaff-435d-ba5e-a3f53a7b1420))
-    (pin "2" (uuid 90bc932c-4934-4726-b7d2-da2c8672f873))
-    (pin "5" (uuid 9c0efa36-22fd-451b-82e2-b2cb913d0506))
+    (pin "2" (uuid 90bc932c-4934-4726-b7d2-da2c8672f874))
+    (pin "5" (uuid 9c0efa36-22fd-451b-82e2-b2cb913d0507))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -4104,8 +4103,8 @@
     (pin "3" (uuid 1e0b718c-d95e-443d-bb51-7dfc89f4158d))
     (pin "4" (uuid cb94664e-7ed5-4821-b027-6752d75c44f1))
     (pin "6" (uuid 69ff6bc3-f8d0-48c8-9a77-840e28ca7ada))
-    (pin "2" (uuid 47b908d9-2dae-4e3d-b3f4-c7b4c7b258a1))
-    (pin "5" (uuid 8e9f35e7-28fb-4fe0-8f8d-cd95fc03e090))
+    (pin "2" (uuid 47b908d9-2dae-4e3d-b3f4-c7b4c7b258a2))
+    (pin "5" (uuid 8e9f35e7-28fb-4fe0-8f8d-cd95fc03e091))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -4194,8 +4193,8 @@
     (pin "3" (uuid f0503a0b-ce82-4353-a5bb-34d811379b08))
     (pin "4" (uuid 99ece672-01ad-4fd7-a6cf-a6e2c368530b))
     (pin "6" (uuid 83f44bdb-6ee2-46d1-ae8c-d0f27e73d90d))
-    (pin "2" (uuid a8520276-7974-4cf4-871a-de7b09ef4976))
-    (pin "5" (uuid 97e8f885-8795-4e67-a048-b98f2660b39a))
+    (pin "2" (uuid a8520276-7974-4cf4-871a-de7b09ef4977))
+    (pin "5" (uuid 97e8f885-8795-4e67-a048-b98f2660b39b))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -4224,8 +4223,8 @@
     (pin "3" (uuid f8c06d66-6c0a-45ad-b239-b8a4eb8cb038))
     (pin "4" (uuid add2210e-4c04-48be-ac4f-e248b68c1914))
     (pin "6" (uuid fb183b70-fc0c-400e-a6dc-4d3fbc7aa91b))
-    (pin "2" (uuid 17cfbd27-7536-4f04-8a4f-955f55af8fa5))
-    (pin "5" (uuid 5c7c9e51-4d4a-42c1-87a3-449375e26191))
+    (pin "2" (uuid 17cfbd27-7536-4f04-8a4f-955f55af8fa6))
+    (pin "5" (uuid 5c7c9e51-4d4a-42c1-87a3-449375e26192))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -4445,19 +4444,19 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer") (at 99.06 40.64 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer") (at 99.06 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9f555f3-1ba2-4a47-ae5b-0c8b76551991)
-    (property "Reference" "R?" (at 105.41 39.37 0)
+    (property "Reference" "R?" (at 105.41 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Variable" (at 105.41 41.91 0)
+    (property "Value" "R_Variable" (at 105.41 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (at 99.06 40.64 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (at 99.06 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 99.06 40.64 0)
+    (property "Datasheet" "~" (at 99.06 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 68453347-3d45-4b9c-8740-7a650a05de41))
@@ -4552,8 +4551,8 @@
     (pin "3" (uuid d4119c86-22b1-4708-b46d-3827cf444f4e))
     (pin "4" (uuid 5ad7ab94-9872-4815-864d-52bbcba8930d))
     (pin "6" (uuid 6f60c81c-ab16-4477-9680-7897739e6540))
-    (pin "2" (uuid 8b994dde-908a-450a-afd0-7da380558f65))
-    (pin "5" (uuid 2e6aa0e1-5c50-4d6a-80e4-ef2da7f7830f))
+    (pin "2" (uuid 8b994dde-908a-450a-afd0-7da380558f66))
+    (pin "5" (uuid 2e6aa0e1-5c50-4d6a-80e4-ef2da7f78310))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -4593,19 +4592,19 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer") (at 107.95 40.64 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer") (at 107.95 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d1461d25-7399-4c40-b9b9-961db8ddc143)
-    (property "Reference" "R?" (at 114.3 39.37 0)
+    (property "Reference" "R?" (at 114.3 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Variable" (at 114.3 41.91 0)
+    (property "Value" "R_Variable" (at 114.3 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (at 107.95 40.64 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical" (at 107.95 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 107.95 40.64 0)
+    (property "Datasheet" "~" (at 107.95 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid af1ac7f0-1b46-4fb9-aecc-0c2745c8d3a3))
@@ -4730,8 +4729,8 @@
     (pin "3" (uuid 5e8ca889-a949-4b49-aa23-091806d80c44))
     (pin "4" (uuid cf19d9d0-1b86-4b9a-bed2-2ea9b9e545e9))
     (pin "6" (uuid cc62458d-3b51-404f-9916-09e1ea73360a))
-    (pin "2" (uuid c977ac04-ebce-4213-9cbd-1d9b69c12780))
-    (pin "5" (uuid d70cf402-2cac-4c98-b4c6-134bdb4719be))
+    (pin "2" (uuid c977ac04-ebce-4213-9cbd-1d9b69c12781))
+    (pin "5" (uuid d70cf402-2cac-4c98-b4c6-134bdb4719bf))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -4760,8 +4759,8 @@
     (pin "3" (uuid 3dac7db7-7768-444c-8d5b-eabc8cbb56b1))
     (pin "4" (uuid feb38a20-7ae4-45e3-b4e3-2f430a7c244a))
     (pin "6" (uuid e7637598-5852-4414-9c61-ea4571bbc68c))
-    (pin "2" (uuid 3f125f97-81be-4c71-8cdd-30e1f74f50ef))
-    (pin "5" (uuid 2719ff56-f6c1-46b7-8cd7-6f298aa97060))
+    (pin "2" (uuid 3f125f97-81be-4c71-8cdd-30e1f74f50f0))
+    (pin "5" (uuid 2719ff56-f6c1-46b7-8cd7-6f298aa97061))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -4910,8 +4909,8 @@
     (pin "3" (uuid de1ff0c0-f7f9-4103-b920-78f40053df1b))
     (pin "4" (uuid f6e8227a-4c4e-496b-bd3c-8715e7249928))
     (pin "6" (uuid a42f8743-ee34-41b7-b932-7e039ad7d8d4))
-    (pin "2" (uuid 0d860cac-6655-4ae0-ab2a-88c4450cbc65))
-    (pin "5" (uuid d5f30db9-54f5-455f-b308-0c62dc2e1b56))
+    (pin "2" (uuid 0d860cac-6655-4ae0-ab2a-88c4450cbc66))
+    (pin "5" (uuid d5f30db9-54f5-455f-b308-0c62dc2e1b57))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -4970,8 +4969,8 @@
     (pin "3" (uuid 8a0cbf01-ad71-4a94-a23c-c0d2fda213d0))
     (pin "4" (uuid 80fedd1b-f595-45ba-ab39-b63cafe23721))
     (pin "6" (uuid e794e497-aa0b-4369-8314-1447ecc6bd59))
-    (pin "2" (uuid b9a59682-596a-4501-85b7-3727cb5d6925))
-    (pin "5" (uuid d84c27ba-e9ce-4f96-8135-f40b0cd29348))
+    (pin "2" (uuid b9a59682-596a-4501-85b7-3727cb5d6926))
+    (pin "5" (uuid d84c27ba-e9ce-4f96-8135-f40b0cd29349))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -5000,8 +4999,8 @@
     (pin "3" (uuid 505e4cc6-d3d4-4347-9980-204b56298405))
     (pin "4" (uuid e6ab7453-c3f0-4bc5-ab60-c0779d9cabe5))
     (pin "6" (uuid be32c5ae-0567-461c-9b2a-ac6db4dd7a62))
-    (pin "2" (uuid 7c26be95-f0c8-4320-91c4-281bc0bab162))
-    (pin "5" (uuid 25d03eea-a647-4b79-892e-d07d97f42cb2))
+    (pin "2" (uuid 7c26be95-f0c8-4320-91c4-281bc0bab163))
+    (pin "5" (uuid 25d03eea-a647-4b79-892e-d07d97f42cb3))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"
@@ -5030,8 +5029,8 @@
     (pin "3" (uuid 19322612-2fb7-456c-a7df-4e6c78e3a77d))
     (pin "4" (uuid 54c035fa-4ba5-4002-a9f9-9fd886625089))
     (pin "6" (uuid 319b5b1c-d376-4bb0-a4f6-f238c26e5f11))
-    (pin "2" (uuid 2eaa8027-bed1-4f56-b5c6-2bf4b0d78a66))
-    (pin "5" (uuid 1e4fa618-004e-4780-9621-72dd5637d169))
+    (pin "2" (uuid 2eaa8027-bed1-4f56-b5c6-2bf4b0d78a67))
+    (pin "5" (uuid 1e4fa618-004e-4780-9621-72dd5637d16a))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/e7f7cc17-2405-4f69-85c3-3b13e8232cae"

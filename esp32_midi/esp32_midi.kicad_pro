@@ -492,7 +492,7 @@
     ],
     [
       "067e608b-1500-4656-956d-29b5641ffb6f",
-      "MIDI OUT1"
+      "MIDI OUT"
     ],
     [
       "c474a483-652e-46b3-829f-20d9c40cc74b",
@@ -507,6 +507,10 @@
       "MIDI THRU"
     ],
     [
+      "56ca4930-f65c-4241-90eb-38992c6f6af6",
+      "dcdc_lm2596"
+    ],
+    [
       "e7f7cc17-2405-4f69-85c3-3b13e8232cae",
       "analogorgie"
     ],
@@ -516,7 +520,7 @@
     ],
     [
       "07ea2934-d5a5-4693-a95c-725590a881a7",
-      "64buttons"
+      "buttonsorgie"
     ]
   ],
   "text_variables": {}

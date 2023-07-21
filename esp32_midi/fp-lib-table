@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/espressif-library/footprints/Espressif.pretty")(options "")(descr ""))
   (lib (name "ordentliche-teile")(type "KiCad")(uri "${KIPRJMOD}/ordentliche-teile.pretty")(options "")(descr ""))
+  (lib (name "usb_c")(type "KiCad")(uri "${KIPRJMOD}/usb_c/usb_c.pretty")(options "")(descr ""))
 )
