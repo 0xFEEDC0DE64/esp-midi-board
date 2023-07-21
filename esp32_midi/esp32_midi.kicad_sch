@@ -2881,7 +2881,7 @@
   (symbol (lib_id "Device:R") (at 199.39 140.97 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fccb7792-2277-4269-9527-0107a4df6a2c)
-    (property "Reference" "R7" (at 195.58 137.16 90)
+    (property "Reference" "R7" (at 194.31 138.43 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5k1" (at 198.12 138.43 90)
