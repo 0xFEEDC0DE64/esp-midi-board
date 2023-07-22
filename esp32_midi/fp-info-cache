@@ -1,4 +1,4 @@
-21809178772636125
+21817628484363167
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90559,6 +90559,13 @@ varistor
 2
 2
 ordentliche-teile
+bobbybutton
+
+
+0
+2
+2
+ordentliche-teile
 scheißbutton
 
 
@@ -90579,3 +90586,31 @@ scheißmidi
 0
 7
 6
+usb_c
+USB-C-SMD_HC-TYPE-C-6P-01A
+
+
+0
+10
+10
+usb_c
+USB-C-SMD_KH-TYPE-C-16P
+
+
+0
+22
+20
+usb_c
+USB-C-SMD_MC-311D
+
+
+0
+18
+16
+usb_c
+USB-SMD_U262-061N-4BVC11
+
+
+0
+10
+10
