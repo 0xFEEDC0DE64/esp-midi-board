@@ -1541,7 +1541,7 @@
     (property "Datasheet" "" (at 220.98 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 316d0877-412d-43da-9a16-fe1518dcbbf9))
+    (pin "1" (uuid dcc4b5cd-6a4a-439e-aa8b-bfa5b9c117fb))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1566,7 +1566,7 @@
     (property "Datasheet" "" (at 113.03 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 70e57aa2-4126-4fec-8194-62845479c937))
+    (pin "1" (uuid 69712535-08cc-4efe-a2ca-dae184a2e591))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1591,7 +1591,7 @@
     (property "Datasheet" "" (at 195.58 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 54f649a9-d4f3-42d3-a5c2-8d7af80cd1e6))
+    (pin "1" (uuid fb861c4c-71a0-48b3-9f86-6c2e1c16eedc))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/2c215fe4-7c9a-4ae0-9a5d-913b04975b72"
@@ -1619,8 +1619,8 @@
     (property "Datasheet" "~" (at 267.97 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9349a7dc-0249-42b0-8481-7d76b99ad94a))
-    (pin "2" (uuid 866bbacd-e963-4973-a8a8-15c44c0d291c))
+    (pin "1" (uuid 71e39ab4-bb57-49e7-92c1-08ef26d98238))
+    (pin "2" (uuid 3a7a87c4-ac2a-47b9-a5d9-e7294d3aabbb))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1645,7 +1645,7 @@
     (property "Datasheet" "~" (at 107.95 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 14da249d-13ca-4806-a088-07eb79203920))
+    (pin "1" (uuid 854cc72f-a69b-498f-83cb-8289928af20b))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1670,7 +1670,7 @@
     (property "Datasheet" "" (at 224.79 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d44b4d20-4486-4812-bb90-c660ef4c4abb))
+    (pin "1" (uuid cebb9869-b1de-4d01-a4ca-f403f363f162))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1695,7 +1695,7 @@
     (property "Datasheet" "" (at 279.4 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9c4e423e-9f56-4d7e-861b-dfbb62271575))
+    (pin "1" (uuid e7ded035-2659-4e39-a3f1-1e664ece7294))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1720,7 +1720,7 @@
     (property "Datasheet" "" (at 114.3 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3c8016c5-435a-466f-8ae9-093e764fab4a))
+    (pin "1" (uuid d2d90766-1309-4835-b372-ce1b9b1854c1))
     (instances
       (project "Smart Home Controller V3"
         (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
@@ -1750,7 +1750,7 @@
     (property "Datasheet" "" (at 213.36 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba927051-4e8d-49e4-ab63-f2b92bd51302))
+    (pin "1" (uuid 16f819e2-60f3-4ec6-8094-7874f7ce1b89))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1775,7 +1775,7 @@
     (property "Datasheet" "" (at 104.14 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f10dcb4-305d-46d7-9a77-458387ae902e))
+    (pin "1" (uuid 09e4b36e-d9ae-4e54-94f5-9df378874480))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1800,9 +1800,9 @@
     (property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf" (at 238.76 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6edd5d5c-0dee-4c34-9058-fc133b0addf2))
-    (pin "2" (uuid 99e20d4c-8d57-472a-bf00-469a3489cd75))
-    (pin "3" (uuid 1000c52a-03d1-4a9d-8a20-32f4497da7e6))
+    (pin "1" (uuid 5de857dd-58a7-4fe0-8534-75f5069b1580))
+    (pin "2" (uuid 335aedc1-95a6-4089-875c-551b5d732d33))
+    (pin "3" (uuid 761059ec-9822-40be-ba25-631a6da5015b))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1827,7 +1827,7 @@
     (property "Datasheet" "" (at 95.25 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 09b67581-0e75-4259-b0ec-d2793176d175))
+    (pin "1" (uuid bc66a98d-70a3-4309-88a6-76c87ab25a0e))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1852,8 +1852,8 @@
     (property "Datasheet" "~" (at 228.6 45.974 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2b91e193-3bc7-407f-8d18-b0d759de0754))
-    (pin "2" (uuid b3b001d6-d911-4a81-a414-ce82a9e32f4a))
+    (pin "1" (uuid b99e45e9-f27b-4330-b0e8-8443e3418eb4))
+    (pin "2" (uuid 5c382723-a834-4d40-be69-e4a853a37c35))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1878,7 +1878,7 @@
     (property "Datasheet" "" (at 228.6 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5d9d72d1-af99-4b9b-a856-07510117c9b1))
+    (pin "1" (uuid 323c7eca-87b4-4a8b-9730-6e986779afb1))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1903,7 +1903,7 @@
     (property "Datasheet" "" (at 196.85 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c51bdc0c-20ed-4eb7-945f-462c92836775))
+    (pin "1" (uuid 08434937-632f-4118-92c1-64127f241c3d))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1928,7 +1928,7 @@
     (property "Datasheet" "" (at 110.49 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7aed3021-cdb4-4185-86f4-b2b469ec3d86))
+    (pin "1" (uuid f8e2cb99-4eb2-42ee-bbb5-f02ae2b9476c))
     (instances
       (project "Smart Home Controller V3"
         (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
@@ -1958,8 +1958,8 @@
     (property "Datasheet" "~" (at 261.62 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 557a1a2f-718d-4483-9865-5e37266217a4))
-    (pin "2" (uuid c1067e64-dd3c-4209-8662-805fcca67504))
+    (pin "1" (uuid c51e3bc9-baf1-4938-a988-86fe597528b3))
+    (pin "2" (uuid f2096691-6aa5-4bc1-b9d4-c55c470b370c))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -1987,8 +1987,8 @@
     (property "LCSC Part #" "C1525" (at 95.25 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e175c8f3-6da7-430b-a8be-625e3865b7bf))
-    (pin "2" (uuid 67c99b73-2562-4e98-84eb-5d621bbca99b))
+    (pin "1" (uuid 7f7e3d28-a41a-4a57-9e96-06bc9ba8a49a))
+    (pin "2" (uuid 64025081-e0bd-449e-af93-7c0963c447bb))
     (instances
       (project "Smart Home Controller V3"
         (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
@@ -2018,8 +2018,8 @@
     (property "Datasheet" "~" (at 39.37 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0dbe90ac-8a45-41f2-a84b-cf2abb2421c2))
-    (pin "2" (uuid f2d8b523-5da7-43b5-bc5d-ef0431915694))
+    (pin "1" (uuid af9b0766-553f-4bbd-9866-59984e11b86c))
+    (pin "2" (uuid 538fd08e-2541-4cd5-9d69-2733f9f1d972))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2044,7 +2044,7 @@
     (property "Datasheet" "" (at 92.71 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af20e46f-7171-436d-9bc3-26d1f669f365))
+    (pin "1" (uuid 2a7a2054-e6e9-4e42-b6ab-7edc1cf85a3a))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2069,7 +2069,7 @@
     (property "Datasheet" "" (at 92.71 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 132b8feb-1a56-4e84-8a93-bf66e95e9c08))
+    (pin "1" (uuid 11ef1b48-2de0-4a45-b6a4-c3a380b28c9f))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2094,8 +2094,8 @@
     (property "Datasheet" "~" (at 92.71 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15f46468-f089-41b8-b80f-c1e0e2967293))
-    (pin "2" (uuid f3662634-b9d1-4d77-8b18-3fe353361fe0))
+    (pin "1" (uuid 778604bd-1c7f-4ff2-9747-8dcf83241ed8))
+    (pin "2" (uuid 0ec8f2fc-1d93-48a7-ad28-191e8600348c))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2120,7 +2120,7 @@
     (property "Datasheet" "" (at 39.37 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 300db738-398a-4b8a-9a4e-9dd814f19009))
+    (pin "1" (uuid 1d28d99d-47a2-4e7b-a2d7-ac91c8e6f123))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2145,7 +2145,7 @@
     (property "Datasheet" "" (at 67.31 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e1931cba-9c9d-402f-b61b-983ccd5246e4))
+    (pin "1" (uuid c77eed8d-49ea-42ec-906a-82377dd498d2))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2170,8 +2170,8 @@
     (property "Datasheet" "~" (at 267.97 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 18755b1d-9f28-466e-aedd-f7c828825ce0))
-    (pin "2" (uuid d7e24afa-e1a9-4b0d-a94f-141e30d5b686))
+    (pin "1" (uuid ee558a5d-265a-4fe5-8eea-0e0f6152016b))
+    (pin "2" (uuid 0e0f1dc3-bf49-4f26-a689-90a3ff53aecd))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2196,7 +2196,7 @@
     (property "Datasheet" "" (at 248.92 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8c96d786-6d3a-44a5-96b7-d7b6fc03e1e7))
+    (pin "1" (uuid b32bcec9-40f2-4e11-bd1e-6bea11262470))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2230,22 +2230,22 @@
     (property "LCSC Part #" "C136423" (at 215.9 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3f8f881-7fb8-4e3d-a402-b965ac09b617))
-    (pin "2" (uuid fd95d8d5-0a4c-4b19-b7e3-79a663cbb8bd))
-    (pin "3" (uuid 4c784f6b-a85d-42db-b007-abf54639aa5a))
-    (pin "4" (uuid 7083b7ed-d78d-4e5c-b82c-0722399c01ac))
-    (pin "A1-B12" (uuid 1f5995e5-9ee0-4d1e-9512-87c2fe1e102d))
-    (pin "A4-B9" (uuid 52c77c9c-3fda-47d9-aa87-1490bdd483ba))
-    (pin "A5" (uuid adee28d7-f1ee-4706-bc78-e73ddcdaa979))
-    (pin "A6" (uuid 7c0a0cbf-a673-4988-9d55-391c97da7c4e))
-    (pin "A7" (uuid 4a53ee51-f660-4185-acc5-afdb14d298f8))
-    (pin "A8" (uuid f2d211f4-a519-46a7-afe1-94de581b876d))
-    (pin "B1-A12" (uuid d8ab0648-5fc1-4f12-8a6f-a46996d50bb5))
-    (pin "B4-A9" (uuid e54c6955-0021-46e9-9a03-5bf7bb1e04d3))
-    (pin "B5" (uuid 643af188-234c-460e-b8b1-1e128a3d8ba9))
-    (pin "B6" (uuid 21a89068-7f88-4705-a6d8-bb05eee3787d))
-    (pin "B7" (uuid 88a44074-bd46-48e8-a6fd-819b5c32da00))
-    (pin "B8" (uuid c52e5459-e136-4c16-8ac5-d6a07f07b202))
+    (pin "1" (uuid 9edb33d3-5281-4e11-9c7c-35b961b02f9e))
+    (pin "2" (uuid a3c8fe56-08b7-44c6-8f93-06ebed1efa64))
+    (pin "3" (uuid 30446a95-00ee-4395-ac49-d1930fb2800a))
+    (pin "4" (uuid 0bc44d00-b68b-4fc0-9c65-dfb8886b9c24))
+    (pin "A1-B12" (uuid 2d8cb37a-9fe8-4584-8a05-3faf5201864c))
+    (pin "A4-B9" (uuid 26607fc9-7062-4970-824f-021799ceb48c))
+    (pin "A5" (uuid 2a1e42fb-e40f-4207-a757-46d88b319dff))
+    (pin "A6" (uuid d6f0a7ea-4c12-4014-bc69-effa33fd5d57))
+    (pin "A7" (uuid d8af2c47-a929-45e6-accc-7293108c7fe2))
+    (pin "A8" (uuid e147b161-16c6-4d34-a1be-b15d576ea7e3))
+    (pin "B1-A12" (uuid 88146d4e-0102-4fda-9527-96021c3536e5))
+    (pin "B4-A9" (uuid a5828d06-584c-49a6-aeb0-3f97e60e9df9))
+    (pin "B5" (uuid 782f26f2-98c9-4697-b3de-05ae44655c71))
+    (pin "B6" (uuid e86a5553-d35c-4d21-af18-3ab75368f072))
+    (pin "B7" (uuid cd083de1-1c44-430e-b466-a309dffa4a11))
+    (pin "B8" (uuid f050faaa-a8c5-46fc-977f-20c555c95c68))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/2c215fe4-7c9a-4ae0-9a5d-913b04975b72"
@@ -2273,7 +2273,7 @@
     (property "Datasheet" "~" (at 107.95 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df8bd37e-efbb-4e54-b4fc-788e0f1da2ab))
+    (pin "1" (uuid f5336a09-7341-4874-82e2-48965bb77294))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2298,7 +2298,7 @@
     (property "Datasheet" "" (at 71.12 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 985dd6a1-63df-4c43-a789-2ad9e1b35bb0))
+    (pin "1" (uuid 375f3c6c-b718-490f-b74e-fd63ebcc33cd))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2323,7 +2323,7 @@
     (property "Datasheet" "" (at 236.22 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 394acfe5-87fb-4cb5-a7f2-39a6c4a5a8c5))
+    (pin "1" (uuid 9ab6d65f-e8ad-4384-9067-e8d1cdc7b38c))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2348,7 +2348,7 @@
     (property "Datasheet" "" (at 218.44 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a2ffe50e-3890-4308-82a0-900c015c3c4e))
+    (pin "1" (uuid 74787339-18f6-42c7-a777-2c49b27ca19c))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2373,8 +2373,8 @@
     (property "Datasheet" "~" (at 39.37 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 212b1a2b-478b-49de-a822-71182dbfd651))
-    (pin "2" (uuid f59eddd6-8e1d-41f1-9c27-362584ed72d2))
+    (pin "1" (uuid f34f3c1e-ddb9-48d8-a967-3b0554b21031))
+    (pin "2" (uuid 802170d5-4c21-47bd-af6c-0200c96d705b))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2399,7 +2399,7 @@
     (property "Datasheet" "" (at 236.22 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 524f5a0b-6ce5-429b-b219-dae214256adf))
+    (pin "1" (uuid aa261f96-7cd3-44c5-b500-5003da8370b8))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/2c215fe4-7c9a-4ae0-9a5d-913b04975b72"
@@ -2427,7 +2427,7 @@
     (property "Datasheet" "" (at 67.31 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f71a8f74-a3a1-4d22-8f57-068aaa141ee4))
+    (pin "1" (uuid bd93290e-4d23-46ad-a0a6-19acfb027df3))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2452,8 +2452,8 @@
     (property "Datasheet" "~" (at 250.19 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7309a3b5-88fa-4f3e-9e2c-d13d2c71546f))
-    (pin "2" (uuid 7ea46040-afbe-438a-998f-a203a8742229))
+    (pin "1" (uuid e73cdca7-b6ad-4c37-bbf0-a3ecd5875d7d))
+    (pin "2" (uuid 6caed74d-fa04-4d3a-b0df-1116c6bc5f18))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2481,8 +2481,8 @@
     (property "LCSC Part #" "C25905" (at 232.41 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ad91d8b-19b6-4373-aa7f-6ac4a23db4b0))
-    (pin "2" (uuid 2723419c-556b-4f5c-b3c6-44d89bdba4df))
+    (pin "1" (uuid d09c5ed9-1828-4f3f-8734-67b2b9357869))
+    (pin "2" (uuid 4b842a32-784e-4f32-b99d-3aba65bb396f))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/2c215fe4-7c9a-4ae0-9a5d-913b04975b72"
@@ -2510,7 +2510,7 @@
     (property "Datasheet" "" (at 104.14 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fdfb842d-8a85-4c88-bdf4-19eecb821cf6))
+    (pin "1" (uuid d74391fd-49e2-4fdd-a6dd-a66ff663d480))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2535,7 +2535,7 @@
     (property "Datasheet" "" (at 234.95 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0f822872-1c82-41da-95f1-98691d87068d))
+    (pin "1" (uuid 0455337c-3543-46b7-86a7-be524a604e5b))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2560,8 +2560,8 @@
     (property "Datasheet" "~" (at 224.79 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d9df96fd-6291-44c7-bd7a-e0e0899679c4))
-    (pin "2" (uuid 01b1cc08-0597-4328-bdfe-34ed021370e2))
+    (pin "1" (uuid 0dba412d-26cb-4a18-bcd4-581f9a585433))
+    (pin "2" (uuid 4f52bd30-c940-4ea0-81a8-67c3888bcf47))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2586,7 +2586,7 @@
     (property "Datasheet" "" (at 203.2 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d9a37ccb-c185-4d86-b85c-9cf5e3942b46))
+    (pin "1" (uuid ce400bcb-4ed6-4ed4-8b71-d57f9c401d38))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2611,7 +2611,7 @@
     (property "Datasheet" "" (at 250.19 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0530d3a3-3870-4767-ae78-aa3f6a3b64ca))
+    (pin "1" (uuid 3125cba1-43a9-4d61-bb6f-477431f6cbb9))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2636,7 +2636,7 @@
     (property "Datasheet" "" (at 81.28 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ed6367b0-e1db-4229-a5b0-995f28e0711b))
+    (pin "1" (uuid 0cf63fe9-8d3e-4f1d-a10a-c71d571e13db))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2661,7 +2661,7 @@
     (property "Datasheet" "" (at 104.14 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4e075a57-98ff-4161-9e3d-786fc6e93e3f))
+    (pin "1" (uuid ea37bcd5-acff-4c3a-9d5f-36541a91b6c7))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2686,7 +2686,7 @@
     (property "Datasheet" "" (at 210.82 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e30c7642-9f58-4049-9768-823014f0e6d0))
+    (pin "1" (uuid 039f63fe-addc-409f-a63f-e5ac57a0c6c9))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2711,7 +2711,7 @@
     (property "Datasheet" "" (at 254 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8392b713-5a7d-4706-98c6-ead953dc9cee))
+    (pin "1" (uuid a9491ac0-790a-475d-86cd-13c655bec1e3))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2736,7 +2736,7 @@
     (property "Datasheet" "~" (at 107.95 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 40b505e6-36d4-4c4c-9189-e77108e8fb3b))
+    (pin "1" (uuid cd0a5f01-5e03-47b0-9e7a-4bfeedfea94b))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2761,7 +2761,7 @@
     (property "Datasheet" "" (at 33.02 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9bf30d0-1bd1-49cb-8fb6-bde597477aa6))
+    (pin "1" (uuid 34c4ff3c-0cb3-455f-b53a-df4ecce9231c))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2786,7 +2786,7 @@
     (property "Datasheet" "" (at 69.85 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 441b8cda-b2ee-4ddd-a9c2-66147241cfc9))
+    (pin "1" (uuid c0eee3d4-dbe6-450c-9cf4-b939c4124b30))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2811,7 +2811,7 @@
     (property "Datasheet" "" (at 39.37 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6090abca-7d77-4081-b671-6a1193d16094))
+    (pin "1" (uuid 9c79213a-3171-4659-abcc-419c26fe9806))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2836,7 +2836,7 @@
     (property "Datasheet" "" (at 240.03 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d6fe4376-2264-4fdc-8947-53336703d3bc))
+    (pin "1" (uuid 68093ab0-93d5-4bb6-b65c-0e6221100b6b))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2861,7 +2861,7 @@
     (property "Datasheet" "" (at 104.14 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c2c6dce8-c5ab-4965-bd60-655bead1d562))
+    (pin "1" (uuid 12fb8b17-ec4e-4f4d-866a-9b5c40cebb97))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2886,7 +2886,7 @@
     (property "Datasheet" "" (at 95.25 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c94b737-9d9b-439b-9ea2-222b85d0ed7b))
+    (pin "1" (uuid 76f7818c-00c1-488b-8af4-4d4b8608bbea))
     (instances
       (project "Smart Home Controller V3"
         (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
@@ -2916,7 +2916,7 @@
     (property "Datasheet" "" (at 73.66 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 472ff15f-f502-4d92-a134-d48429ed0c91))
+    (pin "1" (uuid b453a5e5-c1c7-4812-8d57-250fc12885e6))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -2941,47 +2941,47 @@
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-2_datasheet_en.pdf" (at 139.7 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9a6db955-41fa-4dee-93b7-580b6e1562f7))
-    (pin "10" (uuid 8618dd10-bf59-4bed-acc4-4c341b3b5086))
-    (pin "11" (uuid 182827cd-8a64-41b1-8821-0c876fe2fe30))
-    (pin "12" (uuid de08b8e9-b99c-4ade-ba19-3a9588d70f7d))
-    (pin "13" (uuid b5db499f-20de-4a2f-acdc-3dba0f5db88b))
-    (pin "14" (uuid bf91610e-18e3-413e-a2a8-859b1bc40af1))
-    (pin "15" (uuid 99b1f1e9-5b37-4e1d-9cbb-5f00bae1a484))
-    (pin "16" (uuid 8378995e-e84c-43a1-9ad3-5be6d04d3aac))
-    (pin "17" (uuid 1ea34114-e70f-491f-84ab-28e0adad190c))
-    (pin "18" (uuid c637ea23-a052-49c1-8acd-38ab03756c77))
-    (pin "19" (uuid 8eb6fd8d-f1ab-43c4-897f-142c829490c8))
-    (pin "2" (uuid f847a463-f549-4747-805a-6f81c2024e23))
-    (pin "20" (uuid dd3465ff-9209-44f5-a187-655bded63fa7))
-    (pin "21" (uuid 9857ddbb-0632-4b20-bf4a-8ed5e925360e))
-    (pin "22" (uuid f2eb151b-8c88-47db-9c99-79407c21af81))
-    (pin "23" (uuid d8c218a0-f7e2-4750-89a5-da359f02d740))
-    (pin "24" (uuid 49dacc6c-f8c6-403f-96b8-d6836f02745a))
-    (pin "25" (uuid 6c5f222b-68f4-46db-b1ef-719a1eba7ea6))
-    (pin "26" (uuid aa94d425-7c7c-41b3-a182-76485a0746b1))
-    (pin "27" (uuid d5e8f858-705b-41f4-a8fd-42762d151b60))
-    (pin "28" (uuid c0a3c4b3-4c9a-4e62-95a6-1e1a19f8856f))
-    (pin "29" (uuid 211ab932-6127-4f96-be85-279c5361c081))
-    (pin "3" (uuid fe92ac79-c22b-4bbb-baee-d4a2f1f8e3c0))
-    (pin "30" (uuid 8aa18e92-908e-4a51-99e0-1bf25bdd0102))
-    (pin "31" (uuid b00b1a5b-93f4-4ea7-92e9-a9d2deca8639))
-    (pin "32" (uuid 731a0a81-6770-48a2-bf81-86bb196030c7))
-    (pin "33" (uuid 62d24f08-94f7-4384-ab68-b0c0f571b8a5))
-    (pin "34" (uuid b37733d3-b3eb-47e4-b6b2-dc8277c79281))
-    (pin "35" (uuid a4d42190-a60c-49d9-81a7-108c845a676f))
-    (pin "36" (uuid f63fccd2-3e8a-4469-94e8-decb58c90c1f))
-    (pin "37" (uuid 24ec3af6-4dea-4ba1-b162-a49913ebe0a5))
-    (pin "38" (uuid 5b0a26d3-2186-4335-8cab-480ea2fc12a7))
-    (pin "39" (uuid 7408a1f7-172a-4319-89bf-74bd8537a996))
-    (pin "4" (uuid e9ea5de4-bc67-4a32-b100-907db2ce1dec))
-    (pin "40" (uuid f64a922a-4887-4b41-8191-553a9342f2de))
-    (pin "41" (uuid 1a256946-25bd-4c6f-9471-b4c7a441108c))
-    (pin "5" (uuid eb7fb51b-0a59-42ee-8ce9-d245a98dc8a8))
-    (pin "6" (uuid 2abaa132-71ae-4045-a81e-2ec0e191309c))
-    (pin "7" (uuid b313f780-de0f-433d-91f0-cdf9c0c08534))
-    (pin "8" (uuid c70bdb2b-2c72-4ec9-998a-b7e473f3d408))
-    (pin "9" (uuid 3e75bc05-3e78-4333-869e-cdb82e3b74fe))
+    (pin "1" (uuid 3b38a07d-5fa3-47d6-8b4f-e178b2ef73a0))
+    (pin "10" (uuid f0755799-09f8-4c78-8b72-bf7841c03dac))
+    (pin "11" (uuid dd0b3b5e-10d8-430f-9702-810449b4a43e))
+    (pin "12" (uuid c5e98caf-9839-4169-bf21-fb5fc7e99b95))
+    (pin "13" (uuid 2bbd2064-c295-4c6d-aac2-ada93a0ced49))
+    (pin "14" (uuid e182554e-a29d-4f0d-825e-53116cf412c9))
+    (pin "15" (uuid 051cda59-3d1f-49c5-912d-006dc7b67843))
+    (pin "16" (uuid 4a6dee03-49ee-460a-a320-ce0929b85aad))
+    (pin "17" (uuid 82fb0fac-e0e3-46d6-9670-b08937fba07d))
+    (pin "18" (uuid 2834e306-4c62-4a05-8eb5-0d9ab89d602e))
+    (pin "19" (uuid fffde9cc-34c3-4a53-a219-ed61e1c43c2a))
+    (pin "2" (uuid b5d9abde-7afa-46d4-a16a-ccc758fd02ce))
+    (pin "20" (uuid ced7e223-83ef-42c8-bf12-da2a2c14e180))
+    (pin "21" (uuid cf1cb4f4-93f3-48cb-bc2c-ac0d0c4e0c13))
+    (pin "22" (uuid 77c3cf98-e5fd-4254-a77d-d7e64f16f71a))
+    (pin "23" (uuid 24eaf229-956b-4a0d-a9d7-1d33587b28e6))
+    (pin "24" (uuid 6ee31b4d-a50d-4dfd-93ba-9000cf29493c))
+    (pin "25" (uuid c78f8ad1-6c2d-4b81-b9ef-8369e3792d29))
+    (pin "26" (uuid 34f4d35a-7e45-45db-ad52-15647021c891))
+    (pin "27" (uuid dba9711d-550b-4507-94a3-cf2b0c251190))
+    (pin "28" (uuid 06957f3b-4332-4a6c-b5a5-c8b7896f6417))
+    (pin "29" (uuid 5bd15aa0-4891-45d1-a2d9-9a4c39b8d4f9))
+    (pin "3" (uuid 7695b5d8-ee82-4c8b-ad90-c5708a11719e))
+    (pin "30" (uuid 8e04ff8d-d779-4a83-b32e-86a54f18875f))
+    (pin "31" (uuid f705f327-f5ce-47cb-bc20-03409ffa5544))
+    (pin "32" (uuid 26ede60c-3de2-4eea-8312-d6bc333e1a2f))
+    (pin "33" (uuid 7593c20d-dc75-48d7-9b9a-c68a8e80bf7f))
+    (pin "34" (uuid 83999051-5bc0-437f-8e28-d746720a1083))
+    (pin "35" (uuid 52e91216-9a26-4f6b-8144-6ef657e5ec66))
+    (pin "36" (uuid 8b476144-e04b-4589-8c47-3baa54b6642f))
+    (pin "37" (uuid 5a40b581-b9ca-4a50-9fc2-604c0dc41618))
+    (pin "38" (uuid fee6aa41-491a-472b-a266-03eaf2d6d470))
+    (pin "39" (uuid 189cbb5c-2b85-4ed2-9ccb-8764f47e0e9c))
+    (pin "4" (uuid a71b573e-915a-4fb5-88c4-8ffd5ddc97ad))
+    (pin "40" (uuid 5df49278-f1ea-43e6-b691-17a23f1aec9c))
+    (pin "41" (uuid 5975daec-3b23-41e2-8884-2c6bcfe1b311))
+    (pin "5" (uuid 1e0377c5-d353-4de7-baab-321d8670caea))
+    (pin "6" (uuid 72125c90-3781-4eee-a9e6-1d9ad26282b3))
+    (pin "7" (uuid d090bc02-6037-470a-8b5f-d01b7f5104df))
+    (pin "8" (uuid 05c42816-d4a0-47ac-bb49-68315e4d74be))
+    (pin "9" (uuid 92c76012-f62f-4d94-afea-5e528a82d5fd))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -3006,14 +3006,14 @@
     (property "Datasheet" "~" (at 119.38 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 45887ea8-5fa4-4a5f-bcec-3522a7427e3b))
-    (pin "2" (uuid a23c7e00-5cc1-4043-83d9-6685906f91d7))
-    (pin "3" (uuid 85bf3b5c-b1f1-4185-80fd-065e259b7767))
-    (pin "4" (uuid d61e237b-a391-4da3-882b-a8296fa05026))
-    (pin "5" (uuid ce329b7e-e47c-4a66-b1b5-0392cafa8239))
-    (pin "6" (uuid 89d63d67-74fd-44f6-94e3-8bf1a0a03728))
-    (pin "7" (uuid ee10f3ba-ba0b-4770-832b-2d896fd4c5ce))
-    (pin "8" (uuid 911bc40a-3f9e-492e-a429-1e9bf5949b11))
+    (pin "1" (uuid 203239a4-d788-4ff9-96e5-a58e0e7b8f96))
+    (pin "2" (uuid 2c985967-aef7-471d-ace6-2630d71e0440))
+    (pin "3" (uuid 8639fa08-01bd-43ff-97ff-6fe11afca44b))
+    (pin "4" (uuid a6c64a05-b543-4de5-bbba-52ee5e744978))
+    (pin "5" (uuid 47b6d1b2-cec7-47f3-bc7e-85976c442950))
+    (pin "6" (uuid c454cc71-cb33-422a-904f-f01c28dd754a))
+    (pin "7" (uuid 3b178b54-d110-4e6e-80d0-9cc6948f9922))
+    (pin "8" (uuid 8414e2a2-8481-4a6c-a405-86e203879bec))
     (instances
       (project "Smart Home Controller V3"
         (path "/72b36951-3ec7-4569-9c88-cf9b4afe1cae"
@@ -3043,8 +3043,8 @@
     (property "Datasheet" "~" (at 220.98 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a3d8b74-04d8-4064-abfb-a7ea2d11a79c))
-    (pin "2" (uuid 8e81d1c9-e363-4f5f-9fe1-229006058a17))
+    (pin "1" (uuid 308c5056-6fac-433c-bb91-2fe22701702b))
+    (pin "2" (uuid f1ac3ed5-8ac6-434d-8d49-567ea63af41e))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -3069,7 +3069,7 @@
     (property "Datasheet" "" (at 234.95 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 61adc663-8bc0-43e7-9e28-414f35213ff5))
+    (pin "1" (uuid 210a87d6-b79a-4faa-b25b-2aec4ad76d67))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -3094,7 +3094,7 @@
     (property "Datasheet" "" (at 215.9 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 05069511-99e5-43e7-832c-65056ba7cd95))
+    (pin "1" (uuid 9bad2194-f4c0-4a7d-aca0-5432ceac0052))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -3119,7 +3119,7 @@
     (property "Datasheet" "~" (at 107.95 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e16b094-23d0-449b-8cd3-728828edb80c))
+    (pin "1" (uuid d587c19b-9cfd-41ea-8c02-1c4f21fe0c24))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c"
@@ -3147,8 +3147,8 @@
     (property "LCSC Part #" "C25905" (at 199.39 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c72cee2d-1127-403e-96f1-f7c059e4e8f1))
-    (pin "2" (uuid 47aaaffe-ec92-4876-89f5-a764963cb2d2))
+    (pin "1" (uuid ac5e6413-d09d-4c93-a746-243e790404bb))
+    (pin "2" (uuid 246912aa-c01e-491c-ba18-b326d3c24c6e))
     (instances
       (project "esp32_midi"
         (path "/e33c0603-5c0d-4712-ab63-5756d1504b4c/2c215fe4-7c9a-4ae0-9a5d-913b04975b72"
