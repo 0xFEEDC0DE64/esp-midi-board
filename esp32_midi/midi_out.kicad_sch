@@ -326,6 +326,9 @@
   )
 
 
+  (no_connect (at 121.92 67.31) (uuid 2996ad2d-6127-4fcb-9e4d-e82f3f0c949d))
+  (no_connect (at 106.68 67.31) (uuid ebc1ccf6-181b-472a-b8bd-29687c109076))
+
   (wire (pts (xy 99.06 50.8) (xy 121.92 50.8))
     (stroke (width 0) (type default))
     (uuid 3f4478fb-2c39-45c6-89ea-de5557d92bcd)
@@ -383,7 +386,7 @@
     (property "Datasheet" "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf" (at 114.3 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Description" "" (at 114.3 67.31 0)
+    (property "Description" "5-pin DIN connector (5-pin DIN-5 stereo)" (at 114.3 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e709fee6-becd-407e-acfa-96eea9f4498f))
@@ -418,7 +421,7 @@
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" (at 85.09 63.5 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Description" "" (at 85.09 63.5 0)
+    (property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23" (at 85.09 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 83ed29cf-2db9-43df-aa3e-ade060b7fc5a))
@@ -451,7 +454,7 @@
     (property "Datasheet" "~" (at 95.25 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Description" "" (at 95.25 50.8 0)
+    (property "Description" "Resistor" (at 95.25 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e58bd59a-508a-4f36-a34b-4dce468cde83))
